@@ -1,0 +1,183 @@
+{%extends 'base.html'%}
+ {%block content%}
+<!-- Top Bar -->
+<div class="topbar">
+  <div class="page-title">Real-Time Risk Monitoring</div>
+  <div class="toolbar">
+    <div class="notification-icon" title="Click to See Risk zone">
+      <a href="Notifications.html"><i class="fas fa-bell"></i></a>
+      <div class="notification-badge">3</div>
+    </div>
+    <!-- <div class="user-info">
+        <img
+          src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=80&h=80&q=80"
+          alt="User"
+        />
+        <span class="user-name">Alex Johnson</span>
+      </div> -->
+  </div>
+</div>
+<!-- Content of the page -->
+<div class="page active" id="hazard-page">
+  <div class="content">
+    <div class="kpi-section">
+      <div class="section-header">
+        <div class="section-title">Hazard Monitoring</div>
+        <div class="time-filter">
+          <i class="fas fa-clock"></i>
+          Real-time
+        </div>
+      </div>
+
+      <div class="card-grid">
+        <div class="card kpi-card">
+          <div class="kpi-icon flood"><i class="fas fa-water"></i></div>
+          <div class="kpi-content">
+            <div class="kpi-value">3.2m</div>
+            <div class="kpi-label">Rising River Levels</div>
+          </div>
+          <div class="kpi-trend trend-negative">
+            <i class="fas fa-arrow-up"></i>
+            <span>+0.8m</span>
+          </div>
+        </div>
+
+        <div class="card kpi-card">
+          <div class="kpi-icon drought"><i class="fas fa-thermometer-three-quarters"></i></div>
+          <div class="kpi-content">
+            <div class="kpi-value">+4.5°C</div>
+            <div class="kpi-label">Temp Anomaly</div>
+          </div>
+          <div class="kpi-trend trend-negative">
+            <i class="fas fa-arrow-up"></i>
+            <span>+16%</span>
+          </div>
+        </div>
+
+        <div class="card kpi-card">
+          <div class="kpi-icon landslide"><i class="fas fa-mountain"></i></div>
+          <div class="kpi-content">
+            <div class="kpi-value">12%</div>
+            <div class="kpi-label">Soil Moisture</div>
+          </div>
+          <div class="kpi-trend trend-negative">
+            <i class="fas fa-arrow-down"></i>
+            <span>-30%</span>
+          </div>
+        </div>
+
+        <div class="card kpi-card">
+          <div class="kpi-icon zone"><i class="fas fa-satellite-dish"></i></div>
+          <div class="kpi-content">
+            <div class="kpi-value">98/102</div>
+            <div class="kpi-label">Active sensors</div>
+          </div>
+          <div class="kpi-trend trend-positive">
+            <i class="fas fa-check-circle"></i>
+            <span>96%</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="monitoring-grid">
+      <div class="monitoring-chart-wrapper">
+        <div class="chart-header">Precipitation Analysis (mm)</div>
+        <div id="precipitation-chart" class="monitoring-chart"></div>
+      </div>
+      <div class="monitoring-chart-wrapper">
+        <div class="chart-header">Temperature Trends (°C)</div>
+        <div id="temperature-chart" class="monitoring-chart"></div>
+      </div>
+      <div class="monitoring-chart-wrapper">
+        <div class="chart-header">Water Levels (m)</div>
+        <div id="water-chart" class="monitoring-chart"></div>
+      </div>
+      <div class="monitoring-chart-wrapper">
+        <div class="chart-header">Soil Moisture Levels (%)</div>
+        <div id="soil-chart" class="monitoring-chart"></div>
+      </div>
+    </div>
+
+    <!-- Hazard Predictions Section -->
+    <div class="section" style="margin-top: 2rem">
+      <div class="section-header">
+        <div class="section-title">Hazard Predictions (Next 72 Hours)</div>
+      </div>
+      <div class="prediction-grid">
+        <div class="prediction-card">
+          <div class="prediction-header">
+            <i class="fas fa-cloud-showers-heavy prediction-icon flood"></i>
+            <div class="prediction-title">Flash Flood Potential</div>
+          </div>
+          <div class="prediction-body">
+            <div class="prediction-value">Moderate</div>
+            <div class="prediction-detail">Heavy rainfall (40-60mm) expected in the Blue River Basin. River levels may reach alert status within 48 hours.</div>
+          </div>
+        </div>
+        <div class="prediction-card">
+          <div class="prediction-header">
+            <i class="fas fa-fire prediction-icon drought"></i>
+            <div class="prediction-title">Wildfire Risk</div>
+          </div>
+          <div class="prediction-body">
+            <div class="prediction-value">Low</div>
+            <div class="prediction-detail">Slight increase in temperature but humidity remains stable. Low probability of wildfire ignition.</div>
+          </div>
+        </div>
+        <div class="prediction-card">
+          <div class="prediction-header">
+            <i class="fas fa-mountain prediction-icon landslide"></i>
+            <div class="prediction-title">Landslide Likelihood</div>
+          </div>
+          <div class="prediction-body">
+            <div class="prediction-value">High</div>
+            <div class="prediction-detail">Soil saturation in Hillside District is approaching critical levels. High likelihood if heavy rain occurs.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section" style="margin-top: 2rem">
+      <div class="section-header">
+        <div class="section-title">Sensor Status - Critical Zones</div>
+      </div>
+      <div class="sensor-list">
+        <div class="sensor-item">
+          <div class="sensor-status"></div>
+          <div class="sensor-info">
+            <div class="sensor-name">River North Station</div>
+            <div class="sensor-location">Zone A - Blue River Basin</div>
+          </div>
+          <div class="sensor-value">3.2m</div>
+        </div>
+        <div class="sensor-item">
+          <div class="sensor-status warning"></div>
+          <div class="sensor-info">
+            <div class="sensor-name">Oak Hills Weather Station</div>
+            <div class="sensor-location">Hill Country Perimeter</div>
+          </div>
+          <div class="sensor-value">62%</div>
+        </div>
+        <div class="sensor-item">
+          <div class="sensor-status critical"></div>
+          <div class="sensor-info">
+            <div class="sensor-name">Farmland #4 Moisture</div>
+            <div class="sensor-location">Agricultural Zone D</div>
+          </div>
+          <div class="sensor-value">15%</div>
+        </div>
+        <div class="sensor-item">
+          <div class="sensor-status"></div>
+          <div class="sensor-info">
+            <div class="sensor-name">Coastal Tidal Station</div>
+            <div class="sensor-location">East Coast Area</div>
+          </div>
+          <div class="sensor-value">0.54m</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{%endblock%}

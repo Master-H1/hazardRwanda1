@@ -1,0 +1,201 @@
+{%extends 'base.html'%} {%block content%}
+<div class="main-content">
+  <!-- Top Bar -->
+  <div class="topbar">
+    <div class="page-title">Community Planning</div>
+    <div class="toolbar">
+      <div class="notification-icon">
+        <i class="fas fa-bell" title="Click to See Risk zone"></i>
+      </div>
+      <!-- <div class="user-info">
+              <img
+                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=80&h=80&q=80"
+                alt="User"
+              />
+              <span class="user-name">Alex Johnson</span>
+            </div> -->
+    </div>
+  </div>
+  <!-- Community Planning Page -->
+  <div class="page active" id="community-page">
+    <div class="content">
+      <div class="section-header">
+        <div class="section-title">Community Resilience Planning</div>
+        <div class="time-filter">
+          <i class="fas fa-lightbulb"></i>
+          Action Resources
+        </div>
+      </div>
+
+      <div class="resources-grid">
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon"><i class="fas fa-book"></i></div>
+            <div class="resource-title">Resilience Planning Guide</div>
+          </div>
+          <div class="resource-description">Comprehensive handbook for community leaders to develop localized climate resilience strategies and emergency plans.</div>
+          <button class="btn">
+            <i class="fas fa-download"></i>
+            Download Guide (PDF)
+          </button>
+        </article>
+
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon"><i class="fas fa-users"></i></div>
+            <div class="resource-title">Community Workshops</div>
+          </div>
+          <div class="resource-description">Schedule interactive community sessions to educate residents about climate risks and preparedness methods.</div>
+          <button class="btn">
+            <i class="fas fa-calendar-alt"></i>
+            View Workshop Schedule
+          </button>
+        </article>
+
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon"><i class="fas fa-home"></i></div>
+            <div class="resource-title">Infrastructure Grants</div>
+          </div>
+          <div class="resource-description">Explore funding opportunities for projects that enhance community resilience to climate events.</div>
+          <button class="btn">
+            <i class="fas fa-file-alt"></i>
+            Grant Applications
+          </button>
+        </article>
+
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon">
+              <i class="fas fa-hands-helping"></i>
+            </div>
+            <div class="resource-title">Volunteer Programs</div>
+          </div>
+          <div class="resource-description">Join community response teams and volunteer initiatives to support vulnerable populations during hazards.</div>
+          <button class="btn">
+            <i class="fas fa-handshake"></i>
+            Volunteer Now
+          </button>
+        </article>
+
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon"><i class="fas fa-tools"></i></div>
+            <div class="resource-title">Toolkits & Templates</div>
+          </div>
+          <div class="resource-description">Customizable planning templates, assessment tools, and communication resources for community leaders.</div>
+          <button class="btn">
+            <i class="fas fa-folder-open"></i>
+            Access Resources
+          </button>
+        </article>
+
+        <article class="resource-card">
+          <div class="resource-header">
+            <div class="resource-icon">
+              <i class="fas fa-chart-line"></i>
+            </div>
+            <div class="resource-title">Success Stories</div>
+          </div>
+          <div class="resource-description">Case studies of communities that implemented resilience programs and reduced vulnerability to climate risks.</div>
+          <button class="btn">
+            <i class="fas fa-book-open"></i>
+            Read Stories
+          </button>
+        </article>
+      </div>
+
+      <div class="checklist-section" style="margin-top: 2rem">
+        <div class="section-header">
+          <div class="section-title">Community Preparedness Checklist</div>
+        </div>
+        <div class="checklist-grid">
+          <div class="checklist-card">
+            <div class="checklist-header">
+              <div class="checklist-icon">
+                <i class="fas fa-list-check"></i>
+              </div>
+              <div class="checklist-title">Essential Checklist</div>
+            </div>
+            <ul class="checklist-items">
+              <li class="checklist-item">
+                <input type="checkbox" id="item1" checked />
+                <label for="item1">Identify community risk zones</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item2" checked />
+                <label for="item2">Establish emergency communication plan</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item3" />
+                <label for="item3">Conduct community hazard drills</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item4" />
+                <label for="item4">Create mutual aid networks</label>
+              </li>
+            </ul>
+          </div>
+
+          <div class="checklist-card">
+            <div class="checklist-header">
+              <div class="checklist-icon">
+                <i class="fas fa-house-flood-water"></i>
+              </div>
+              <div class="checklist-title">Flood Preparedness</div>
+            </div>
+            <ul class="checklist-items">
+              <li class="checklist-item">
+                <input type="checkbox" id="item5" checked />
+                <label for="item5">Map flood-prone areas</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item6" checked />
+                <label for="item6">Identify evacuation routes</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item7" />
+                <label for="item7">Stockpile sandbags & barriers</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item8" />
+                <label for="item8">Establish high-ground shelters</label>
+              </li>
+            </ul>
+          </div>
+
+          <div class="checklist-card">
+            <div class="checklist-header">
+              <div class="checklist-icon">
+                <i class="fas fa-droplet-slash"></i>
+              </div>
+              <div class="checklist-title">Drought Management</div>
+            </div>
+            <ul class="checklist-items">
+              <li class="checklist-item">
+                <input type="checkbox" id="item9" checked />
+                <label for="item9">Water conservation protocols</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item10" />
+                <label for="item10">Alternative water sources</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item11" />
+                <label for="item11">Agricultural adaptation plans</label>
+              </li>
+              <li class="checklist-item">
+                <input type="checkbox" id="item12" />
+                <label for="item12">Drought-resistant planting</label>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">Climate Resilience Dashboard &copy; 2023 - Empowering communities against climate hazards</div>
+</div>
+{%endblock%}

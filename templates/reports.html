@@ -1,0 +1,172 @@
+{%extends 'base.html'%} {%block content%}
+<div class="main-content">
+  <!-- Top Bar -->
+  <div class="topbar">
+    <div class="page-title">Reports</div>
+    <div class="toolbar">
+      <div class="notification-icon">
+        <i class="fas fa-bell" title="Click to See Risk zone"></i>
+        <div class="notification-badge">3</div>
+      </div>
+      <!-- <div class="user-info">
+              <img
+                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=80&h=80&q=80"
+                alt="User"
+              />
+              <span class="user-name">Alex Johnson</span>
+            </div> -->
+    </div>
+  </div>
+  <!-- Reports Page -->
+  <div class="page active" id="reports-page">
+    <div class="content">
+      <div class="section-header">
+        <div class="section-title">Data Reports</div>
+        <div class="filter-group">
+          <i class="fas fa-file-alt"></i>
+          Latest Reports
+        </div>
+      </div>
+
+      <div class="reports-grid">
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon"><i class="fas fa-water"></i></div>
+            <div class="report-title">Annual Flood Risk Assessment</div>
+          </div>
+          <div class="report-description">Detailed analysis of regional flood patterns, vulnerable areas, and predictive modeling through 2030.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Oct 10, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>24 Pages</span>
+            </div>
+          </div>
+          <a href="https://digitallibrary.un.org/record/4063343/files/1417555-EN.pdf" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon"><i class="fas fa-sun"></i></div>
+            <div class="report-title">Drought Impact Report</div>
+          </div>
+          <div class="report-description">Analysis of long-term drought trends, agricultural impact assessment, and mitigation strategies.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Sep 28, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>42 Pages</span>
+            </div>
+          </div>
+          <a href="#" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon"><i class="fas fa-mountain"></i></div>
+            <div class="report-title">Landslide Vulnerability Index</div>
+          </div>
+          <div class="report-description">Land stability metrics, high-risk zone identification, community relocation planning data.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Sep 15, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>32 Pages</span>
+            </div>
+          </div>
+          <a href="#" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon">
+              <i class="fas fa-chart-line"></i>
+            </div>
+            <div class="report-title">Monthly Climate Report</div>
+          </div>
+          <div class="report-description">Precipitation, temperature and extreme event statistics analysis across all monitored regions.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Oct 5, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>18 Pages</span>
+            </div>
+          </div>
+          <a href="#" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon"><i class="fas fa-users"></i></div>
+            <div class="report-title">Community Resilience Metrics</div>
+          </div>
+          <div class="report-description">Assessment of community preparedness levels across different regions and vulnerability groups.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Sep 22, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>48 Pages</span>
+            </div>
+          </div>
+          <a href="#" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+
+        <article class="report-card">
+          <div class="report-header">
+            <div class="report-icon"><i class="fas fa-industry"></i></div>
+            <div class="report-title">Infrastructure Resilience Report</div>
+          </div>
+          <div class="report-description">Critical infrastructure protection strategies and climate vulnerability ranking of key facilities.</div>
+          <div class="report-meta">
+            <div class="meta-item">
+              <i class="fas fa-calendar-alt"></i>
+              <span>Aug 30, 2023</span>
+            </div>
+            <div class="meta-item">
+              <i class="fas fa-file-lines"></i>
+              <span>36 Pages</span>
+            </div>
+          </div>
+          <a href="#" class="detail-view">
+            <span>View Full Report</span>
+            <i class="fas fa-chevron-right"></i>
+          </a>
+        </article>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">Climate Resilience Dashboard &copy; 2023 - Empowering communities against climate hazards</div>
+</div>
+{%endblock%}

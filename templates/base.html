@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hazard Insights</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="{%static 'css/style.css' %}" />
+  </head>
+  <body>
+    <div class="page-container">
+      <!-- Navigation Sidebar -->
+      <div class="sidebar">
+        <div class="logo-section">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Map_pin_icon.svg/1024px-Map_pin_icon.svg.png" alt="Logo" />
+          <h1>Climate Resilience and Risk Management System</h1>
+        </div>
+        <ul class="nav-links">
+          <li class="nav-item {%if request.resolver_match.url_name == 'dashboard'%} active {%endif%}" data-page="dashboard-page">
+            <a href="{% url 'dashboard' %}">
+              <i class="fas fa-home"></i>
+              <span>Dashboard</span>
+            </a>
+          </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'home'%} active {%endif%}" data-page="hazard-page">
+            <a href="{% url 'home'%}">
+              <i class="fas fa-globe-americas"></i>
+              <span>Hazard Insights</span>
+            </a>
+          </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'community'%} active {%endif%}" data-page="community-page">
+            <a href="{%url 'community'%}">
+              <i class="fas fa-users"></i>
+              <span>Community Planning</span>
+            </a>
+          </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'reports'%} active {%endif%}" data-page="reports-page">
+            <a href="{%url 'reports'%}">
+              <i class="fas fa-chart-bar"></i>
+              <span>Reports</span>
+            </a>
+          </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'notifications'%} active {%endif%}" data-page="notifications-page">
+            <a href="{%url 'notifications'%}">
+              <i class="fas fa-bell"></i>
+              <span>Notifications</span>
+            </a>
+          </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'overview'%} active {%endif%}" data-page="overview-page">
+            <a href="{%url 'overview'%}">
+              <i class="fas fa-info-circle"></i>
+              <span>Info | About</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="main-content">{%block content%} {%endblock%}</div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <!-- <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script> -->
+    <script src="{%static 'js/scripts.js' %}"></script>
+  </body>
+</html>
