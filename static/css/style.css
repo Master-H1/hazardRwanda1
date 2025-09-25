@@ -21,7 +21,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -130,7 +130,7 @@ body {
 }
 
 .nav-item.active a::before {
-  content: "";
+  content: '';
   position: absolute;
   left: 0;
   top: 0;
@@ -339,12 +339,32 @@ body {
   margin-right: 0.3rem;
 }
 
+/* Dashboard Map Controls */
+.map-control {
+  display: flex !important;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid var(--border-color);
+}
+
+.map-filter-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.map-filter-group label {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-dark);
+}
+
 /* Map Section */
 .main-grid {
-  /* display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-template-columns: 2.5fr 1fr;
-  gap: 1.5rem; */
   height: 100%;
   margin-bottom: 1.5rem;
 }
@@ -366,7 +386,7 @@ body {
 
 .map-container #map {
   width: 100%;
-  height: 100%;
+  height: 70%;
   border-radius: 8px;
 }
 
@@ -386,7 +406,7 @@ body {
 }
 
 .map-placeholder img {
-  height: 320px;
+  height: 300px;
 }
 
 .map-placeholder i {
@@ -593,7 +613,7 @@ body {
   margin-bottom: 0;
 }
 
-.checklist-item input[type="checkbox"] {
+.checklist-item input[type='checkbox'] {
   margin-right: 0.8rem;
   cursor: pointer;
   accent-color: var(--success-color);
@@ -608,7 +628,7 @@ body {
   transition: color 0.2s, text-decoration 0.2s;
 }
 
-.checklist-item input[type="checkbox"]:checked + label {
+.checklist-item input[type='checkbox']:checked + label {
   text-decoration: line-through;
   color: var(--success-color);
 }
@@ -764,7 +784,7 @@ body {
   align-items: center;
 }
 
-.controls input[type="search"],
+.controls input[type='search'],
 .controls select {
   padding: 0.5rem 0.8rem;
   border-radius: 8px;
@@ -821,12 +841,12 @@ table#notifTable th {
 }
 
 table#notifTable th.sort-asc::after {
-  content: " ▲";
+  content: ' ▲';
   font-size: 12px;
   color: var(--primary-color);
 }
 table#notifTable th.sort-desc::after {
-  content: " ▼";
+  content: ' ▼';
   font-size: 12px;
   color: var(--primary-color);
 }
@@ -1004,13 +1024,13 @@ table#notifTable tr:hover td {
 }
 
 /* Style border based on risk level text */
-.prediction-card:has(.prediction-value:contains("Moderate")) {
+.prediction-card:has(.prediction-value:contains('Moderate')) {
   border-color: var(--warning-color);
 }
-.prediction-card:has(.prediction-value:contains("Low")) {
+.prediction-card:has(.prediction-value:contains('Low')) {
   border-color: var(--success-color);
 }
-.prediction-card:has(.prediction-value:contains("High")) {
+.prediction-card:has(.prediction-value:contains('High')) {
   border-color: var(--danger-color);
 }
 

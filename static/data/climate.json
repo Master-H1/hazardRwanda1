@@ -1,0 +1,5762 @@
+[
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Bugesera",
+    "temperature": 27.4,
+    "rainfall": 71.8,
+    "soil_moisture": 36.7
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Burera",
+    "temperature": 20.5,
+    "rainfall": 207.9,
+    "soil_moisture": 21.3
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Gakenke",
+    "temperature": 22.4,
+    "rainfall": 139.0,
+    "soil_moisture": 55.9
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Gasabo",
+    "temperature": 25.3,
+    "rainfall": 179.1,
+    "soil_moisture": 54.8
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Gatsibo",
+    "temperature": 27.8,
+    "rainfall": 83.6,
+    "soil_moisture": 37.9
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Gicumbi",
+    "temperature": 21.7,
+    "rainfall": 175.6,
+    "soil_moisture": 25.3
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Gisagara",
+    "temperature": 25.2,
+    "rainfall": 190.1,
+    "soil_moisture": 55.1
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Huye",
+    "temperature": 25.9,
+    "rainfall": 284.0,
+    "soil_moisture": 36.2
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Kamonyi",
+    "temperature": 26.5,
+    "rainfall": 153.9,
+    "soil_moisture": 43.7
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Karongi",
+    "temperature": 18.9,
+    "rainfall": 106.5,
+    "soil_moisture": 47.0
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Kayonza",
+    "temperature": 18.1,
+    "rainfall": 271.8,
+    "soil_moisture": 21.1
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Kicukiro",
+    "temperature": 20.2,
+    "rainfall": 111.3,
+    "soil_moisture": 38.4
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Kirehe",
+    "temperature": 21.9,
+    "rainfall": 50.3,
+    "soil_moisture": 33.3
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Muhanga",
+    "temperature": 18.2,
+    "rainfall": 84.7,
+    "soil_moisture": 56.7
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Musanze",
+    "temperature": 21.5,
+    "rainfall": 52.4,
+    "soil_moisture": 50.4
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Ngoma",
+    "temperature": 27.6,
+    "rainfall": 93.1,
+    "soil_moisture": 27.2
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Ngororero",
+    "temperature": 21.5,
+    "rainfall": 274.3,
+    "soil_moisture": 25.3
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyabihu",
+    "temperature": 22.1,
+    "rainfall": 66.0,
+    "soil_moisture": 52.9
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyagatare",
+    "temperature": 21.3,
+    "rainfall": 236.5,
+    "soil_moisture": 49.7
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyamagabe",
+    "temperature": 22.3,
+    "rainfall": 161.8,
+    "soil_moisture": 47.8
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyamasheke",
+    "temperature": 26.9,
+    "rainfall": 194.6,
+    "soil_moisture": 55.6
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyanza",
+    "temperature": 20.3,
+    "rainfall": 204.4,
+    "soil_moisture": 44.5
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyarugenge",
+    "temperature": 23.5,
+    "rainfall": 93.2,
+    "soil_moisture": 27.6
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Nyaruguru",
+    "temperature": 25.0,
+    "rainfall": 56.9,
+    "soil_moisture": 33.9
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Rubavu",
+    "temperature": 22.1,
+    "rainfall": 160.1,
+    "soil_moisture": 38.1
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Ruhango",
+    "temperature": 26.5,
+    "rainfall": 268.6,
+    "soil_moisture": 27.8
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Rulindo",
+    "temperature": 26.3,
+    "rainfall": 257.8,
+    "soil_moisture": 56.3
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Rusizi",
+    "temperature": 27.9,
+    "rainfall": 240.6,
+    "soil_moisture": 42.7
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Rutsiro",
+    "temperature": 19.5,
+    "rainfall": 142.3,
+    "soil_moisture": 36.1
+  },
+  {
+    "year": 2024,
+    "month": "January",
+    "district": "Rwamagana",
+    "temperature": 26.1,
+    "rainfall": 255.6,
+    "soil_moisture": 26.0
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Bugesera",
+    "temperature": 24.2,
+    "rainfall": 111.9,
+    "soil_moisture": 26.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Burera",
+    "temperature": 19.6,
+    "rainfall": 120.6,
+    "soil_moisture": 35.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Gakenke",
+    "temperature": 20.4,
+    "rainfall": 76.2,
+    "soil_moisture": 51.3
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Gasabo",
+    "temperature": 27.4,
+    "rainfall": 84.4,
+    "soil_moisture": 55.0
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Gatsibo",
+    "temperature": 21.5,
+    "rainfall": 219.5,
+    "soil_moisture": 30.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Gicumbi",
+    "temperature": 21.0,
+    "rainfall": 94.4,
+    "soil_moisture": 22.5
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Gisagara",
+    "temperature": 21.1,
+    "rainfall": 88.2,
+    "soil_moisture": 26.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Huye",
+    "temperature": 20.8,
+    "rainfall": 55.5,
+    "soil_moisture": 50.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Kamonyi",
+    "temperature": 23.3,
+    "rainfall": 288.2,
+    "soil_moisture": 39.8
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Karongi",
+    "temperature": 24.7,
+    "rainfall": 219.7,
+    "soil_moisture": 27.2
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Kayonza",
+    "temperature": 22.3,
+    "rainfall": 54.1,
+    "soil_moisture": 54.8
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Kicukiro",
+    "temperature": 22.7,
+    "rainfall": 137.8,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Kirehe",
+    "temperature": 24.2,
+    "rainfall": 182.4,
+    "soil_moisture": 39.2
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Muhanga",
+    "temperature": 27.4,
+    "rainfall": 148.6,
+    "soil_moisture": 40.7
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Musanze",
+    "temperature": 26.5,
+    "rainfall": 74.2,
+    "soil_moisture": 36.9
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Ngoma",
+    "temperature": 24.8,
+    "rainfall": 139.3,
+    "soil_moisture": 22.5
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Ngororero",
+    "temperature": 27.8,
+    "rainfall": 134.0,
+    "soil_moisture": 27.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyabihu",
+    "temperature": 21.5,
+    "rainfall": 170.9,
+    "soil_moisture": 26.2
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyagatare",
+    "temperature": 24.5,
+    "rainfall": 247.2,
+    "soil_moisture": 47.1
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyamagabe",
+    "temperature": 23.8,
+    "rainfall": 148.4,
+    "soil_moisture": 52.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyamasheke",
+    "temperature": 20.7,
+    "rainfall": 194.5,
+    "soil_moisture": 41.6
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyanza",
+    "temperature": 21.9,
+    "rainfall": 74.2,
+    "soil_moisture": 33.1
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyarugenge",
+    "temperature": 18.1,
+    "rainfall": 201.6,
+    "soil_moisture": 41.3
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Nyaruguru",
+    "temperature": 22.4,
+    "rainfall": 57.4,
+    "soil_moisture": 27.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Rubavu",
+    "temperature": 22.6,
+    "rainfall": 182.9,
+    "soil_moisture": 57.4
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Ruhango",
+    "temperature": 22.4,
+    "rainfall": 127.2,
+    "soil_moisture": 24.1
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Rulindo",
+    "temperature": 27.6,
+    "rainfall": 110.7,
+    "soil_moisture": 54.5
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Rusizi",
+    "temperature": 22.2,
+    "rainfall": 56.9,
+    "soil_moisture": 51.3
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Rutsiro",
+    "temperature": 27.6,
+    "rainfall": 132.2,
+    "soil_moisture": 45.2
+  },
+  {
+    "year": 2024,
+    "month": "February",
+    "district": "Rwamagana",
+    "temperature": 23.0,
+    "rainfall": 203.9,
+    "soil_moisture": 24.1
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Bugesera",
+    "temperature": 24.5,
+    "rainfall": 111.4,
+    "soil_moisture": 42.0
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Burera",
+    "temperature": 24.5,
+    "rainfall": 96.1,
+    "soil_moisture": 23.9
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Gakenke",
+    "temperature": 24.1,
+    "rainfall": 67.3,
+    "soil_moisture": 21.0
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Gasabo",
+    "temperature": 18.8,
+    "rainfall": 246.1,
+    "soil_moisture": 46.6
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Gatsibo",
+    "temperature": 23.2,
+    "rainfall": 198.5,
+    "soil_moisture": 24.8
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Gicumbi",
+    "temperature": 25.2,
+    "rainfall": 162.4,
+    "soil_moisture": 50.6
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Gisagara",
+    "temperature": 21.7,
+    "rainfall": 62.3,
+    "soil_moisture": 22.5
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Huye",
+    "temperature": 27.8,
+    "rainfall": 177.2,
+    "soil_moisture": 33.1
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Kamonyi",
+    "temperature": 26.3,
+    "rainfall": 234.2,
+    "soil_moisture": 45.9
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Karongi",
+    "temperature": 27.7,
+    "rainfall": 53.0,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Kayonza",
+    "temperature": 21.1,
+    "rainfall": 230.8,
+    "soil_moisture": 54.7
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Kicukiro",
+    "temperature": 23.7,
+    "rainfall": 189.3,
+    "soil_moisture": 44.2
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Kirehe",
+    "temperature": 22.8,
+    "rainfall": 253.0,
+    "soil_moisture": 32.4
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Muhanga",
+    "temperature": 18.1,
+    "rainfall": 197.9,
+    "soil_moisture": 26.0
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Musanze",
+    "temperature": 20.0,
+    "rainfall": 265.5,
+    "soil_moisture": 45.7
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Ngoma",
+    "temperature": 24.3,
+    "rainfall": 78.2,
+    "soil_moisture": 48.8
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Ngororero",
+    "temperature": 23.8,
+    "rainfall": 136.7,
+    "soil_moisture": 58.8
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyabihu",
+    "temperature": 25.9,
+    "rainfall": 215.3,
+    "soil_moisture": 45.7
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyagatare",
+    "temperature": 22.4,
+    "rainfall": 189.0,
+    "soil_moisture": 31.5
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyamagabe",
+    "temperature": 19.7,
+    "rainfall": 59.5,
+    "soil_moisture": 23.4
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyamasheke",
+    "temperature": 27.0,
+    "rainfall": 225.6,
+    "soil_moisture": 57.9
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyanza",
+    "temperature": 19.4,
+    "rainfall": 258.6,
+    "soil_moisture": 27.2
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyarugenge",
+    "temperature": 19.4,
+    "rainfall": 126.1,
+    "soil_moisture": 31.3
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Nyaruguru",
+    "temperature": 24.5,
+    "rainfall": 164.9,
+    "soil_moisture": 54.0
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Rubavu",
+    "temperature": 24.8,
+    "rainfall": 222.9,
+    "soil_moisture": 20.8
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Ruhango",
+    "temperature": 19.2,
+    "rainfall": 157.9,
+    "soil_moisture": 22.7
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Rulindo",
+    "temperature": 21.4,
+    "rainfall": 212.0,
+    "soil_moisture": 42.2
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Rusizi",
+    "temperature": 27.0,
+    "rainfall": 183.3,
+    "soil_moisture": 27.7
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Rutsiro",
+    "temperature": 24.6,
+    "rainfall": 253.6,
+    "soil_moisture": 40.0
+  },
+  {
+    "year": 2024,
+    "month": "March",
+    "district": "Rwamagana",
+    "temperature": 23.3,
+    "rainfall": 194.6,
+    "soil_moisture": 42.2
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Bugesera",
+    "temperature": 19.5,
+    "rainfall": 219.2,
+    "soil_moisture": 27.1
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Burera",
+    "temperature": 19.2,
+    "rainfall": 280.8,
+    "soil_moisture": 46.5
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Gakenke",
+    "temperature": 26.5,
+    "rainfall": 87.6,
+    "soil_moisture": 28.7
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Gasabo",
+    "temperature": 23.8,
+    "rainfall": 140.4,
+    "soil_moisture": 20.0
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Gatsibo",
+    "temperature": 27.2,
+    "rainfall": 133.8,
+    "soil_moisture": 26.4
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Gicumbi",
+    "temperature": 23.8,
+    "rainfall": 69.2,
+    "soil_moisture": 49.4
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Gisagara",
+    "temperature": 26.8,
+    "rainfall": 141.9,
+    "soil_moisture": 33.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Huye",
+    "temperature": 23.5,
+    "rainfall": 197.4,
+    "soil_moisture": 28.7
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Kamonyi",
+    "temperature": 22.7,
+    "rainfall": 53.9,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Karongi",
+    "temperature": 23.5,
+    "rainfall": 248.1,
+    "soil_moisture": 26.6
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Kayonza",
+    "temperature": 27.9,
+    "rainfall": 158.2,
+    "soil_moisture": 57.0
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Kicukiro",
+    "temperature": 20.5,
+    "rainfall": 70.8,
+    "soil_moisture": 44.7
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Kirehe",
+    "temperature": 27.6,
+    "rainfall": 210.6,
+    "soil_moisture": 39.1
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Muhanga",
+    "temperature": 20.7,
+    "rainfall": 106.7,
+    "soil_moisture": 30.1
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Musanze",
+    "temperature": 18.8,
+    "rainfall": 214.4,
+    "soil_moisture": 43.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Ngoma",
+    "temperature": 22.9,
+    "rainfall": 184.5,
+    "soil_moisture": 53.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Ngororero",
+    "temperature": 24.6,
+    "rainfall": 112.8,
+    "soil_moisture": 27.7
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyabihu",
+    "temperature": 19.2,
+    "rainfall": 85.3,
+    "soil_moisture": 42.9
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyagatare",
+    "temperature": 22.2,
+    "rainfall": 128.5,
+    "soil_moisture": 37.5
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyamagabe",
+    "temperature": 21.5,
+    "rainfall": 199.5,
+    "soil_moisture": 35.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyamasheke",
+    "temperature": 19.2,
+    "rainfall": 181.8,
+    "soil_moisture": 22.7
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyanza",
+    "temperature": 23.7,
+    "rainfall": 79.7,
+    "soil_moisture": 51.1
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyarugenge",
+    "temperature": 26.5,
+    "rainfall": 77.6,
+    "soil_moisture": 36.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Nyaruguru",
+    "temperature": 25.4,
+    "rainfall": 154.8,
+    "soil_moisture": 42.6
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Rubavu",
+    "temperature": 19.7,
+    "rainfall": 78.7,
+    "soil_moisture": 42.4
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Ruhango",
+    "temperature": 22.1,
+    "rainfall": 55.1,
+    "soil_moisture": 47.0
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Rulindo",
+    "temperature": 25.6,
+    "rainfall": 271.4,
+    "soil_moisture": 53.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Rusizi",
+    "temperature": 22.0,
+    "rainfall": 164.5,
+    "soil_moisture": 50.3
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Rutsiro",
+    "temperature": 27.4,
+    "rainfall": 84.0,
+    "soil_moisture": 28.1
+  },
+  {
+    "year": 2024,
+    "month": "April",
+    "district": "Rwamagana",
+    "temperature": 24.1,
+    "rainfall": 63.4,
+    "soil_moisture": 39.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Bugesera",
+    "temperature": 19.6,
+    "rainfall": 184.0,
+    "soil_moisture": 46.3
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Burera",
+    "temperature": 26.6,
+    "rainfall": 296.3,
+    "soil_moisture": 39.1
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Gakenke",
+    "temperature": 25.0,
+    "rainfall": 147.2,
+    "soil_moisture": 23.4
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Gasabo",
+    "temperature": 21.8,
+    "rainfall": 137.8,
+    "soil_moisture": 28.0
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Gatsibo",
+    "temperature": 23.0,
+    "rainfall": 125.4,
+    "soil_moisture": 49.2
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Gicumbi",
+    "temperature": 19.0,
+    "rainfall": 175.3,
+    "soil_moisture": 47.6
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Gisagara",
+    "temperature": 22.0,
+    "rainfall": 241.4,
+    "soil_moisture": 59.6
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Huye",
+    "temperature": 23.0,
+    "rainfall": 132.6,
+    "soil_moisture": 56.5
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Kamonyi",
+    "temperature": 19.8,
+    "rainfall": 232.0,
+    "soil_moisture": 22.8
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Karongi",
+    "temperature": 21.8,
+    "rainfall": 98.8,
+    "soil_moisture": 43.2
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Kayonza",
+    "temperature": 19.1,
+    "rainfall": 204.1,
+    "soil_moisture": 53.6
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Kicukiro",
+    "temperature": 19.5,
+    "rainfall": 268.1,
+    "soil_moisture": 54.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Kirehe",
+    "temperature": 25.2,
+    "rainfall": 290.9,
+    "soil_moisture": 31.2
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Muhanga",
+    "temperature": 28.0,
+    "rainfall": 298.0,
+    "soil_moisture": 48.3
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Musanze",
+    "temperature": 25.7,
+    "rainfall": 103.8,
+    "soil_moisture": 44.3
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Ngoma",
+    "temperature": 21.0,
+    "rainfall": 90.1,
+    "soil_moisture": 31.3
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Ngororero",
+    "temperature": 26.6,
+    "rainfall": 216.9,
+    "soil_moisture": 55.0
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyabihu",
+    "temperature": 22.1,
+    "rainfall": 67.2,
+    "soil_moisture": 54.4
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyagatare",
+    "temperature": 22.7,
+    "rainfall": 158.1,
+    "soil_moisture": 27.0
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyamagabe",
+    "temperature": 24.1,
+    "rainfall": 228.1,
+    "soil_moisture": 39.6
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyamasheke",
+    "temperature": 23.6,
+    "rainfall": 269.7,
+    "soil_moisture": 55.4
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyanza",
+    "temperature": 20.8,
+    "rainfall": 101.6,
+    "soil_moisture": 25.4
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyarugenge",
+    "temperature": 22.9,
+    "rainfall": 160.3,
+    "soil_moisture": 27.8
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Nyaruguru",
+    "temperature": 18.7,
+    "rainfall": 150.9,
+    "soil_moisture": 56.7
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Rubavu",
+    "temperature": 21.4,
+    "rainfall": 215.1,
+    "soil_moisture": 20.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Ruhango",
+    "temperature": 27.6,
+    "rainfall": 175.5,
+    "soil_moisture": 59.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Rulindo",
+    "temperature": 20.8,
+    "rainfall": 184.1,
+    "soil_moisture": 48.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Rusizi",
+    "temperature": 25.4,
+    "rainfall": 70.5,
+    "soil_moisture": 47.7
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Rutsiro",
+    "temperature": 21.9,
+    "rainfall": 184.2,
+    "soil_moisture": 27.9
+  },
+  {
+    "year": 2024,
+    "month": "May",
+    "district": "Rwamagana",
+    "temperature": 20.5,
+    "rainfall": 287.2,
+    "soil_moisture": 52.5
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Bugesera",
+    "temperature": 20.5,
+    "rainfall": 192.9,
+    "soil_moisture": 50.5
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Burera",
+    "temperature": 18.1,
+    "rainfall": 108.4,
+    "soil_moisture": 53.5
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Gakenke",
+    "temperature": 24.9,
+    "rainfall": 272.7,
+    "soil_moisture": 32.9
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Gasabo",
+    "temperature": 20.1,
+    "rainfall": 236.6,
+    "soil_moisture": 47.7
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Gatsibo",
+    "temperature": 27.6,
+    "rainfall": 231.0,
+    "soil_moisture": 50.7
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Gicumbi",
+    "temperature": 25.0,
+    "rainfall": 175.0,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Gisagara",
+    "temperature": 27.1,
+    "rainfall": 139.1,
+    "soil_moisture": 25.0
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Huye",
+    "temperature": 23.1,
+    "rainfall": 207.0,
+    "soil_moisture": 43.4
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Kamonyi",
+    "temperature": 23.9,
+    "rainfall": 226.2,
+    "soil_moisture": 51.6
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Karongi",
+    "temperature": 25.4,
+    "rainfall": 271.5,
+    "soil_moisture": 43.2
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Kayonza",
+    "temperature": 26.2,
+    "rainfall": 56.7,
+    "soil_moisture": 43.5
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Kicukiro",
+    "temperature": 21.4,
+    "rainfall": 202.3,
+    "soil_moisture": 27.0
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Kirehe",
+    "temperature": 27.7,
+    "rainfall": 119.2,
+    "soil_moisture": 41.1
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Muhanga",
+    "temperature": 23.1,
+    "rainfall": 128.0,
+    "soil_moisture": 30.9
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Musanze",
+    "temperature": 20.3,
+    "rainfall": 210.6,
+    "soil_moisture": 44.8
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Ngoma",
+    "temperature": 26.5,
+    "rainfall": 169.4,
+    "soil_moisture": 56.7
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Ngororero",
+    "temperature": 25.2,
+    "rainfall": 170.1,
+    "soil_moisture": 48.1
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyabihu",
+    "temperature": 20.1,
+    "rainfall": 127.9,
+    "soil_moisture": 38.3
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyagatare",
+    "temperature": 23.2,
+    "rainfall": 75.7,
+    "soil_moisture": 55.3
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyamagabe",
+    "temperature": 25.5,
+    "rainfall": 155.5,
+    "soil_moisture": 46.2
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyamasheke",
+    "temperature": 27.8,
+    "rainfall": 130.1,
+    "soil_moisture": 23.8
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyanza",
+    "temperature": 21.1,
+    "rainfall": 242.5,
+    "soil_moisture": 25.0
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyarugenge",
+    "temperature": 22.7,
+    "rainfall": 232.2,
+    "soil_moisture": 27.4
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Nyaruguru",
+    "temperature": 22.2,
+    "rainfall": 86.8,
+    "soil_moisture": 35.8
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Rubavu",
+    "temperature": 25.9,
+    "rainfall": 248.7,
+    "soil_moisture": 34.0
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Ruhango",
+    "temperature": 27.7,
+    "rainfall": 231.3,
+    "soil_moisture": 51.2
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Rulindo",
+    "temperature": 26.0,
+    "rainfall": 201.0,
+    "soil_moisture": 47.2
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Rusizi",
+    "temperature": 23.5,
+    "rainfall": 273.1,
+    "soil_moisture": 31.1
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Rutsiro",
+    "temperature": 26.7,
+    "rainfall": 121.9,
+    "soil_moisture": 34.4
+  },
+  {
+    "year": 2024,
+    "month": "June",
+    "district": "Rwamagana",
+    "temperature": 19.3,
+    "rainfall": 133.9,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Bugesera",
+    "temperature": 26.0,
+    "rainfall": 101.3,
+    "soil_moisture": 40.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Burera",
+    "temperature": 22.4,
+    "rainfall": 295.9,
+    "soil_moisture": 41.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Gakenke",
+    "temperature": 21.9,
+    "rainfall": 243.7,
+    "soil_moisture": 31.3
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Gasabo",
+    "temperature": 26.7,
+    "rainfall": 259.7,
+    "soil_moisture": 21.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Gatsibo",
+    "temperature": 26.4,
+    "rainfall": 98.2,
+    "soil_moisture": 33.7
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Gicumbi",
+    "temperature": 22.1,
+    "rainfall": 134.4,
+    "soil_moisture": 45.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Gisagara",
+    "temperature": 18.4,
+    "rainfall": 221.3,
+    "soil_moisture": 27.6
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Huye",
+    "temperature": 18.5,
+    "rainfall": 257.9,
+    "soil_moisture": 33.6
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Kamonyi",
+    "temperature": 28.0,
+    "rainfall": 149.3,
+    "soil_moisture": 46.6
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Karongi",
+    "temperature": 20.1,
+    "rainfall": 224.9,
+    "soil_moisture": 36.8
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Kayonza",
+    "temperature": 26.9,
+    "rainfall": 55.5,
+    "soil_moisture": 23.7
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Kicukiro",
+    "temperature": 20.8,
+    "rainfall": 278.5,
+    "soil_moisture": 45.1
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Kirehe",
+    "temperature": 25.3,
+    "rainfall": 61.6,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Muhanga",
+    "temperature": 19.4,
+    "rainfall": 243.0,
+    "soil_moisture": 44.3
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Musanze",
+    "temperature": 18.6,
+    "rainfall": 116.6,
+    "soil_moisture": 26.5
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Ngoma",
+    "temperature": 25.8,
+    "rainfall": 225.5,
+    "soil_moisture": 35.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Ngororero",
+    "temperature": 27.2,
+    "rainfall": 72.1,
+    "soil_moisture": 36.3
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyabihu",
+    "temperature": 27.9,
+    "rainfall": 57.9,
+    "soil_moisture": 59.2
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyagatare",
+    "temperature": 21.8,
+    "rainfall": 280.3,
+    "soil_moisture": 35.4
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyamagabe",
+    "temperature": 25.4,
+    "rainfall": 89.4,
+    "soil_moisture": 28.0
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyamasheke",
+    "temperature": 18.9,
+    "rainfall": 116.6,
+    "soil_moisture": 31.8
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyanza",
+    "temperature": 27.5,
+    "rainfall": 206.9,
+    "soil_moisture": 28.9
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyarugenge",
+    "temperature": 22.7,
+    "rainfall": 272.6,
+    "soil_moisture": 54.1
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Nyaruguru",
+    "temperature": 24.0,
+    "rainfall": 97.9,
+    "soil_moisture": 54.0
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Rubavu",
+    "temperature": 25.3,
+    "rainfall": 175.4,
+    "soil_moisture": 24.0
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Ruhango",
+    "temperature": 20.2,
+    "rainfall": 164.5,
+    "soil_moisture": 59.4
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Rulindo",
+    "temperature": 25.8,
+    "rainfall": 221.9,
+    "soil_moisture": 57.7
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Rusizi",
+    "temperature": 27.2,
+    "rainfall": 54.6,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Rutsiro",
+    "temperature": 27.0,
+    "rainfall": 169.5,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2024,
+    "month": "July",
+    "district": "Rwamagana",
+    "temperature": 25.6,
+    "rainfall": 222.8,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Bugesera",
+    "temperature": 21.2,
+    "rainfall": 72.3,
+    "soil_moisture": 27.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Burera",
+    "temperature": 22.5,
+    "rainfall": 146.8,
+    "soil_moisture": 25.0
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Gakenke",
+    "temperature": 25.1,
+    "rainfall": 115.7,
+    "soil_moisture": 58.8
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Gasabo",
+    "temperature": 25.3,
+    "rainfall": 267.6,
+    "soil_moisture": 24.5
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Gatsibo",
+    "temperature": 21.0,
+    "rainfall": 234.3,
+    "soil_moisture": 41.2
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Gicumbi",
+    "temperature": 26.2,
+    "rainfall": 154.8,
+    "soil_moisture": 38.1
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Gisagara",
+    "temperature": 23.4,
+    "rainfall": 188.9,
+    "soil_moisture": 56.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Huye",
+    "temperature": 24.3,
+    "rainfall": 295.3,
+    "soil_moisture": 51.6
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Kamonyi",
+    "temperature": 22.7,
+    "rainfall": 145.5,
+    "soil_moisture": 55.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Karongi",
+    "temperature": 26.4,
+    "rainfall": 123.3,
+    "soil_moisture": 36.6
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Kayonza",
+    "temperature": 19.8,
+    "rainfall": 274.3,
+    "soil_moisture": 23.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Kicukiro",
+    "temperature": 22.7,
+    "rainfall": 114.7,
+    "soil_moisture": 48.1
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Kirehe",
+    "temperature": 26.5,
+    "rainfall": 153.3,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Muhanga",
+    "temperature": 21.0,
+    "rainfall": 154.3,
+    "soil_moisture": 49.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Musanze",
+    "temperature": 25.7,
+    "rainfall": 110.3,
+    "soil_moisture": 59.5
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Ngoma",
+    "temperature": 25.5,
+    "rainfall": 179.8,
+    "soil_moisture": 29.4
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Ngororero",
+    "temperature": 22.2,
+    "rainfall": 287.7,
+    "soil_moisture": 37.9
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyabihu",
+    "temperature": 25.2,
+    "rainfall": 63.6,
+    "soil_moisture": 35.9
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyagatare",
+    "temperature": 18.3,
+    "rainfall": 112.5,
+    "soil_moisture": 58.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyamagabe",
+    "temperature": 27.7,
+    "rainfall": 233.2,
+    "soil_moisture": 24.4
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyamasheke",
+    "temperature": 25.6,
+    "rainfall": 288.8,
+    "soil_moisture": 41.4
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyanza",
+    "temperature": 24.5,
+    "rainfall": 165.7,
+    "soil_moisture": 32.8
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyarugenge",
+    "temperature": 27.1,
+    "rainfall": 204.8,
+    "soil_moisture": 30.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Nyaruguru",
+    "temperature": 22.7,
+    "rainfall": 200.1,
+    "soil_moisture": 35.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Rubavu",
+    "temperature": 20.8,
+    "rainfall": 227.8,
+    "soil_moisture": 22.3
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Ruhango",
+    "temperature": 24.9,
+    "rainfall": 236.0,
+    "soil_moisture": 49.5
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Rulindo",
+    "temperature": 23.1,
+    "rainfall": 253.1,
+    "soil_moisture": 48.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Rusizi",
+    "temperature": 24.9,
+    "rainfall": 229.3,
+    "soil_moisture": 24.4
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Rutsiro",
+    "temperature": 26.4,
+    "rainfall": 263.8,
+    "soil_moisture": 39.7
+  },
+  {
+    "year": 2024,
+    "month": "August",
+    "district": "Rwamagana",
+    "temperature": 24.3,
+    "rainfall": 186.5,
+    "soil_moisture": 56.3
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Bugesera",
+    "temperature": 20.1,
+    "rainfall": 91.4,
+    "soil_moisture": 35.9
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Burera",
+    "temperature": 21.0,
+    "rainfall": 147.8,
+    "soil_moisture": 27.1
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Gakenke",
+    "temperature": 18.4,
+    "rainfall": 180.7,
+    "soil_moisture": 35.1
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Gasabo",
+    "temperature": 20.4,
+    "rainfall": 123.9,
+    "soil_moisture": 57.0
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Gatsibo",
+    "temperature": 25.5,
+    "rainfall": 168.2,
+    "soil_moisture": 22.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Gicumbi",
+    "temperature": 20.2,
+    "rainfall": 157.7,
+    "soil_moisture": 48.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Gisagara",
+    "temperature": 25.3,
+    "rainfall": 72.9,
+    "soil_moisture": 53.3
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Huye",
+    "temperature": 21.6,
+    "rainfall": 94.4,
+    "soil_moisture": 37.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Kamonyi",
+    "temperature": 23.6,
+    "rainfall": 293.6,
+    "soil_moisture": 35.6
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Karongi",
+    "temperature": 27.0,
+    "rainfall": 57.0,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Kayonza",
+    "temperature": 24.0,
+    "rainfall": 232.2,
+    "soil_moisture": 56.9
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Kicukiro",
+    "temperature": 19.5,
+    "rainfall": 281.7,
+    "soil_moisture": 41.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Kirehe",
+    "temperature": 26.1,
+    "rainfall": 187.3,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Muhanga",
+    "temperature": 21.5,
+    "rainfall": 249.7,
+    "soil_moisture": 35.2
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Musanze",
+    "temperature": 23.1,
+    "rainfall": 90.6,
+    "soil_moisture": 49.7
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Ngoma",
+    "temperature": 25.5,
+    "rainfall": 136.5,
+    "soil_moisture": 50.7
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Ngororero",
+    "temperature": 24.5,
+    "rainfall": 142.2,
+    "soil_moisture": 24.7
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyabihu",
+    "temperature": 18.1,
+    "rainfall": 277.2,
+    "soil_moisture": 20.2
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyagatare",
+    "temperature": 24.0,
+    "rainfall": 213.9,
+    "soil_moisture": 38.9
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyamagabe",
+    "temperature": 23.5,
+    "rainfall": 82.3,
+    "soil_moisture": 35.1
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyamasheke",
+    "temperature": 24.6,
+    "rainfall": 247.5,
+    "soil_moisture": 55.0
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyanza",
+    "temperature": 20.5,
+    "rainfall": 150.9,
+    "soil_moisture": 45.0
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyarugenge",
+    "temperature": 18.7,
+    "rainfall": 91.7,
+    "soil_moisture": 36.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Nyaruguru",
+    "temperature": 26.9,
+    "rainfall": 140.1,
+    "soil_moisture": 52.8
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Rubavu",
+    "temperature": 27.8,
+    "rainfall": 81.9,
+    "soil_moisture": 27.2
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Ruhango",
+    "temperature": 18.8,
+    "rainfall": 187.8,
+    "soil_moisture": 22.0
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Rulindo",
+    "temperature": 20.1,
+    "rainfall": 68.3,
+    "soil_moisture": 34.2
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Rusizi",
+    "temperature": 20.8,
+    "rainfall": 102.7,
+    "soil_moisture": 55.7
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Rutsiro",
+    "temperature": 20.7,
+    "rainfall": 260.1,
+    "soil_moisture": 33.0
+  },
+  {
+    "year": 2024,
+    "month": "September",
+    "district": "Rwamagana",
+    "temperature": 22.4,
+    "rainfall": 112.1,
+    "soil_moisture": 28.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Bugesera",
+    "temperature": 18.9,
+    "rainfall": 292.6,
+    "soil_moisture": 22.1
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Burera",
+    "temperature": 20.1,
+    "rainfall": 196.7,
+    "soil_moisture": 49.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Gakenke",
+    "temperature": 19.1,
+    "rainfall": 188.4,
+    "soil_moisture": 47.9
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Gasabo",
+    "temperature": 26.9,
+    "rainfall": 154.5,
+    "soil_moisture": 59.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Gatsibo",
+    "temperature": 23.5,
+    "rainfall": 138.4,
+    "soil_moisture": 36.1
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Gicumbi",
+    "temperature": 27.0,
+    "rainfall": 204.8,
+    "soil_moisture": 21.1
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Gisagara",
+    "temperature": 27.3,
+    "rainfall": 57.7,
+    "soil_moisture": 23.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Huye",
+    "temperature": 26.3,
+    "rainfall": 77.4,
+    "soil_moisture": 45.2
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Kamonyi",
+    "temperature": 18.4,
+    "rainfall": 170.1,
+    "soil_moisture": 30.5
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Karongi",
+    "temperature": 19.4,
+    "rainfall": 164.9,
+    "soil_moisture": 35.9
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Kayonza",
+    "temperature": 22.0,
+    "rainfall": 104.7,
+    "soil_moisture": 57.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Kicukiro",
+    "temperature": 21.0,
+    "rainfall": 198.8,
+    "soil_moisture": 21.3
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Kirehe",
+    "temperature": 26.3,
+    "rainfall": 291.1,
+    "soil_moisture": 43.2
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Muhanga",
+    "temperature": 26.2,
+    "rainfall": 277.2,
+    "soil_moisture": 31.5
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Musanze",
+    "temperature": 25.8,
+    "rainfall": 112.0,
+    "soil_moisture": 55.4
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Ngoma",
+    "temperature": 20.9,
+    "rainfall": 149.2,
+    "soil_moisture": 45.4
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Ngororero",
+    "temperature": 25.3,
+    "rainfall": 73.4,
+    "soil_moisture": 28.6
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyabihu",
+    "temperature": 25.4,
+    "rainfall": 290.8,
+    "soil_moisture": 40.3
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyagatare",
+    "temperature": 22.4,
+    "rainfall": 131.3,
+    "soil_moisture": 23.6
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyamagabe",
+    "temperature": 26.4,
+    "rainfall": 221.8,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyamasheke",
+    "temperature": 19.9,
+    "rainfall": 211.2,
+    "soil_moisture": 29.4
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyanza",
+    "temperature": 20.9,
+    "rainfall": 295.8,
+    "soil_moisture": 39.2
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyarugenge",
+    "temperature": 27.2,
+    "rainfall": 277.9,
+    "soil_moisture": 54.7
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Nyaruguru",
+    "temperature": 19.4,
+    "rainfall": 154.8,
+    "soil_moisture": 40.8
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Rubavu",
+    "temperature": 19.0,
+    "rainfall": 214.8,
+    "soil_moisture": 47.7
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Ruhango",
+    "temperature": 24.7,
+    "rainfall": 286.9,
+    "soil_moisture": 33.1
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Rulindo",
+    "temperature": 26.7,
+    "rainfall": 130.1,
+    "soil_moisture": 32.6
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Rusizi",
+    "temperature": 19.1,
+    "rainfall": 105.3,
+    "soil_moisture": 33.5
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Rutsiro",
+    "temperature": 27.0,
+    "rainfall": 92.9,
+    "soil_moisture": 22.2
+  },
+  {
+    "year": 2024,
+    "month": "October",
+    "district": "Rwamagana",
+    "temperature": 25.6,
+    "rainfall": 251.5,
+    "soil_moisture": 36.1
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Bugesera",
+    "temperature": 19.4,
+    "rainfall": 92.8,
+    "soil_moisture": 30.4
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Burera",
+    "temperature": 26.4,
+    "rainfall": 170.3,
+    "soil_moisture": 56.2
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Gakenke",
+    "temperature": 23.5,
+    "rainfall": 215.0,
+    "soil_moisture": 58.5
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Gasabo",
+    "temperature": 19.2,
+    "rainfall": 187.8,
+    "soil_moisture": 23.7
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Gatsibo",
+    "temperature": 26.7,
+    "rainfall": 71.0,
+    "soil_moisture": 53.9
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Gicumbi",
+    "temperature": 20.4,
+    "rainfall": 250.0,
+    "soil_moisture": 53.7
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Gisagara",
+    "temperature": 27.1,
+    "rainfall": 202.2,
+    "soil_moisture": 22.5
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Huye",
+    "temperature": 25.0,
+    "rainfall": 226.3,
+    "soil_moisture": 46.8
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Kamonyi",
+    "temperature": 26.2,
+    "rainfall": 190.1,
+    "soil_moisture": 58.7
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Karongi",
+    "temperature": 20.8,
+    "rainfall": 284.8,
+    "soil_moisture": 57.4
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Kayonza",
+    "temperature": 19.0,
+    "rainfall": 64.8,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Kicukiro",
+    "temperature": 26.6,
+    "rainfall": 299.7,
+    "soil_moisture": 45.1
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Kirehe",
+    "temperature": 24.2,
+    "rainfall": 288.0,
+    "soil_moisture": 54.6
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Muhanga",
+    "temperature": 19.8,
+    "rainfall": 200.8,
+    "soil_moisture": 25.9
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Musanze",
+    "temperature": 19.6,
+    "rainfall": 114.5,
+    "soil_moisture": 43.6
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Ngoma",
+    "temperature": 19.5,
+    "rainfall": 72.7,
+    "soil_moisture": 21.0
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Ngororero",
+    "temperature": 18.8,
+    "rainfall": 162.4,
+    "soil_moisture": 38.9
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyabihu",
+    "temperature": 22.4,
+    "rainfall": 59.4,
+    "soil_moisture": 26.6
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyagatare",
+    "temperature": 20.2,
+    "rainfall": 194.6,
+    "soil_moisture": 32.9
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyamagabe",
+    "temperature": 24.8,
+    "rainfall": 297.2,
+    "soil_moisture": 24.1
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyamasheke",
+    "temperature": 21.4,
+    "rainfall": 181.5,
+    "soil_moisture": 28.3
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyanza",
+    "temperature": 24.6,
+    "rainfall": 261.5,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyarugenge",
+    "temperature": 21.4,
+    "rainfall": 263.9,
+    "soil_moisture": 33.3
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Nyaruguru",
+    "temperature": 25.0,
+    "rainfall": 234.5,
+    "soil_moisture": 26.2
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Rubavu",
+    "temperature": 18.4,
+    "rainfall": 92.0,
+    "soil_moisture": 39.0
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Ruhango",
+    "temperature": 25.0,
+    "rainfall": 296.4,
+    "soil_moisture": 38.2
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Rulindo",
+    "temperature": 18.3,
+    "rainfall": 58.1,
+    "soil_moisture": 54.0
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Rusizi",
+    "temperature": 23.2,
+    "rainfall": 51.6,
+    "soil_moisture": 48.3
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Rutsiro",
+    "temperature": 24.0,
+    "rainfall": 168.3,
+    "soil_moisture": 49.9
+  },
+  {
+    "year": 2024,
+    "month": "November",
+    "district": "Rwamagana",
+    "temperature": 23.2,
+    "rainfall": 281.0,
+    "soil_moisture": 28.8
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Bugesera",
+    "temperature": 23.1,
+    "rainfall": 293.5,
+    "soil_moisture": 41.2
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Burera",
+    "temperature": 25.5,
+    "rainfall": 293.0,
+    "soil_moisture": 47.9
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Gakenke",
+    "temperature": 27.6,
+    "rainfall": 81.8,
+    "soil_moisture": 41.1
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Gasabo",
+    "temperature": 23.8,
+    "rainfall": 259.1,
+    "soil_moisture": 43.1
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Gatsibo",
+    "temperature": 20.1,
+    "rainfall": 205.3,
+    "soil_moisture": 28.4
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Gicumbi",
+    "temperature": 19.6,
+    "rainfall": 281.6,
+    "soil_moisture": 59.6
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Gisagara",
+    "temperature": 21.0,
+    "rainfall": 281.1,
+    "soil_moisture": 47.3
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Huye",
+    "temperature": 21.2,
+    "rainfall": 243.5,
+    "soil_moisture": 44.5
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Kamonyi",
+    "temperature": 26.3,
+    "rainfall": 266.7,
+    "soil_moisture": 20.3
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Karongi",
+    "temperature": 19.4,
+    "rainfall": 188.4,
+    "soil_moisture": 28.9
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Kayonza",
+    "temperature": 21.7,
+    "rainfall": 93.7,
+    "soil_moisture": 48.4
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Kicukiro",
+    "temperature": 22.8,
+    "rainfall": 175.1,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Kirehe",
+    "temperature": 22.1,
+    "rainfall": 248.9,
+    "soil_moisture": 58.1
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Muhanga",
+    "temperature": 20.1,
+    "rainfall": 76.6,
+    "soil_moisture": 29.6
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Musanze",
+    "temperature": 18.1,
+    "rainfall": 180.0,
+    "soil_moisture": 58.8
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Ngoma",
+    "temperature": 21.9,
+    "rainfall": 272.1,
+    "soil_moisture": 49.3
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Ngororero",
+    "temperature": 21.8,
+    "rainfall": 220.1,
+    "soil_moisture": 24.4
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyabihu",
+    "temperature": 27.1,
+    "rainfall": 90.4,
+    "soil_moisture": 27.0
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyagatare",
+    "temperature": 25.5,
+    "rainfall": 245.8,
+    "soil_moisture": 35.2
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyamagabe",
+    "temperature": 22.1,
+    "rainfall": 87.5,
+    "soil_moisture": 29.0
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyamasheke",
+    "temperature": 27.6,
+    "rainfall": 110.2,
+    "soil_moisture": 22.0
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyanza",
+    "temperature": 27.0,
+    "rainfall": 269.0,
+    "soil_moisture": 32.2
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyarugenge",
+    "temperature": 28.0,
+    "rainfall": 117.1,
+    "soil_moisture": 25.1
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Nyaruguru",
+    "temperature": 26.1,
+    "rainfall": 198.7,
+    "soil_moisture": 21.0
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Rubavu",
+    "temperature": 23.0,
+    "rainfall": 195.2,
+    "soil_moisture": 37.9
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Ruhango",
+    "temperature": 21.5,
+    "rainfall": 245.0,
+    "soil_moisture": 34.0
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Rulindo",
+    "temperature": 25.0,
+    "rainfall": 155.5,
+    "soil_moisture": 34.8
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Rusizi",
+    "temperature": 26.3,
+    "rainfall": 81.7,
+    "soil_moisture": 49.5
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Rutsiro",
+    "temperature": 26.1,
+    "rainfall": 93.1,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2024,
+    "month": "December",
+    "district": "Rwamagana",
+    "temperature": 25.5,
+    "rainfall": 69.5,
+    "soil_moisture": 33.9
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Bugesera",
+    "temperature": 24.1,
+    "rainfall": 86.4,
+    "soil_moisture": 47.4
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Burera",
+    "temperature": 20.2,
+    "rainfall": 172.1,
+    "soil_moisture": 32.9
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Gakenke",
+    "temperature": 22.5,
+    "rainfall": 150.1,
+    "soil_moisture": 30.3
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Gasabo",
+    "temperature": 23.0,
+    "rainfall": 202.9,
+    "soil_moisture": 43.2
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Gatsibo",
+    "temperature": 21.2,
+    "rainfall": 256.2,
+    "soil_moisture": 20.6
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Gicumbi",
+    "temperature": 18.6,
+    "rainfall": 252.2,
+    "soil_moisture": 36.2
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Gisagara",
+    "temperature": 25.5,
+    "rainfall": 77.2,
+    "soil_moisture": 22.9
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Huye",
+    "temperature": 21.0,
+    "rainfall": 275.1,
+    "soil_moisture": 49.8
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Kamonyi",
+    "temperature": 22.5,
+    "rainfall": 76.9,
+    "soil_moisture": 38.8
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Karongi",
+    "temperature": 25.1,
+    "rainfall": 73.7,
+    "soil_moisture": 30.8
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Kayonza",
+    "temperature": 26.9,
+    "rainfall": 199.9,
+    "soil_moisture": 41.3
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Kicukiro",
+    "temperature": 19.2,
+    "rainfall": 138.9,
+    "soil_moisture": 40.7
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Kirehe",
+    "temperature": 27.4,
+    "rainfall": 189.9,
+    "soil_moisture": 52.7
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Muhanga",
+    "temperature": 24.5,
+    "rainfall": 79.8,
+    "soil_moisture": 58.3
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Musanze",
+    "temperature": 22.3,
+    "rainfall": 189.1,
+    "soil_moisture": 54.0
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Ngoma",
+    "temperature": 24.8,
+    "rainfall": 207.6,
+    "soil_moisture": 38.8
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Ngororero",
+    "temperature": 26.7,
+    "rainfall": 231.6,
+    "soil_moisture": 53.7
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyabihu",
+    "temperature": 20.0,
+    "rainfall": 252.3,
+    "soil_moisture": 22.0
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyagatare",
+    "temperature": 23.1,
+    "rainfall": 228.9,
+    "soil_moisture": 41.7
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyamagabe",
+    "temperature": 21.1,
+    "rainfall": 146.4,
+    "soil_moisture": 22.1
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyamasheke",
+    "temperature": 18.3,
+    "rainfall": 269.1,
+    "soil_moisture": 40.2
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyanza",
+    "temperature": 21.4,
+    "rainfall": 86.2,
+    "soil_moisture": 34.9
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyarugenge",
+    "temperature": 18.3,
+    "rainfall": 275.0,
+    "soil_moisture": 46.8
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Nyaruguru",
+    "temperature": 27.1,
+    "rainfall": 200.2,
+    "soil_moisture": 37.5
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Rubavu",
+    "temperature": 19.4,
+    "rainfall": 61.8,
+    "soil_moisture": 34.7
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Ruhango",
+    "temperature": 19.2,
+    "rainfall": 156.7,
+    "soil_moisture": 27.5
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Rulindo",
+    "temperature": 27.6,
+    "rainfall": 158.8,
+    "soil_moisture": 32.2
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Rusizi",
+    "temperature": 21.1,
+    "rainfall": 110.8,
+    "soil_moisture": 46.1
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Rutsiro",
+    "temperature": 24.2,
+    "rainfall": 134.8,
+    "soil_moisture": 24.0
+  },
+  {
+    "year": 2025,
+    "month": "January",
+    "district": "Rwamagana",
+    "temperature": 19.8,
+    "rainfall": 243.2,
+    "soil_moisture": 59.0
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Bugesera",
+    "temperature": 27.8,
+    "rainfall": 231.9,
+    "soil_moisture": 57.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Burera",
+    "temperature": 26.1,
+    "rainfall": 99.3,
+    "soil_moisture": 58.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Gakenke",
+    "temperature": 26.4,
+    "rainfall": 87.9,
+    "soil_moisture": 21.2
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Gasabo",
+    "temperature": 27.5,
+    "rainfall": 130.7,
+    "soil_moisture": 43.7
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Gatsibo",
+    "temperature": 19.3,
+    "rainfall": 232.5,
+    "soil_moisture": 57.7
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Gicumbi",
+    "temperature": 18.5,
+    "rainfall": 58.6,
+    "soil_moisture": 39.0
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Gisagara",
+    "temperature": 25.5,
+    "rainfall": 63.8,
+    "soil_moisture": 56.3
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Huye",
+    "temperature": 24.0,
+    "rainfall": 159.1,
+    "soil_moisture": 58.6
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Kamonyi",
+    "temperature": 27.6,
+    "rainfall": 208.2,
+    "soil_moisture": 47.9
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Karongi",
+    "temperature": 19.0,
+    "rainfall": 78.3,
+    "soil_moisture": 21.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Kayonza",
+    "temperature": 23.2,
+    "rainfall": 60.3,
+    "soil_moisture": 51.0
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Kicukiro",
+    "temperature": 19.1,
+    "rainfall": 76.3,
+    "soil_moisture": 32.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Kirehe",
+    "temperature": 24.4,
+    "rainfall": 135.4,
+    "soil_moisture": 22.2
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Muhanga",
+    "temperature": 23.1,
+    "rainfall": 122.9,
+    "soil_moisture": 39.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Musanze",
+    "temperature": 19.2,
+    "rainfall": 205.3,
+    "soil_moisture": 49.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Ngoma",
+    "temperature": 22.0,
+    "rainfall": 210.7,
+    "soil_moisture": 35.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Ngororero",
+    "temperature": 24.9,
+    "rainfall": 74.8,
+    "soil_moisture": 47.5
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyabihu",
+    "temperature": 25.3,
+    "rainfall": 215.8,
+    "soil_moisture": 48.9
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyagatare",
+    "temperature": 28.0,
+    "rainfall": 253.2,
+    "soil_moisture": 56.8
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyamagabe",
+    "temperature": 26.1,
+    "rainfall": 271.6,
+    "soil_moisture": 50.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyamasheke",
+    "temperature": 26.4,
+    "rainfall": 67.9,
+    "soil_moisture": 52.6
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyanza",
+    "temperature": 21.8,
+    "rainfall": 157.0,
+    "soil_moisture": 52.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyarugenge",
+    "temperature": 22.4,
+    "rainfall": 219.0,
+    "soil_moisture": 30.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Nyaruguru",
+    "temperature": 20.5,
+    "rainfall": 214.4,
+    "soil_moisture": 28.1
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Rubavu",
+    "temperature": 25.4,
+    "rainfall": 116.8,
+    "soil_moisture": 44.4
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Ruhango",
+    "temperature": 26.0,
+    "rainfall": 206.4,
+    "soil_moisture": 25.2
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Rulindo",
+    "temperature": 23.0,
+    "rainfall": 199.8,
+    "soil_moisture": 48.8
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Rusizi",
+    "temperature": 24.4,
+    "rainfall": 294.0,
+    "soil_moisture": 42.9
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Rutsiro",
+    "temperature": 22.1,
+    "rainfall": 79.4,
+    "soil_moisture": 24.9
+  },
+  {
+    "year": 2025,
+    "month": "February",
+    "district": "Rwamagana",
+    "temperature": 23.9,
+    "rainfall": 150.0,
+    "soil_moisture": 21.9
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Bugesera",
+    "temperature": 25.7,
+    "rainfall": 181.5,
+    "soil_moisture": 47.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Burera",
+    "temperature": 19.9,
+    "rainfall": 75.7,
+    "soil_moisture": 38.4
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Gakenke",
+    "temperature": 18.8,
+    "rainfall": 92.9,
+    "soil_moisture": 20.2
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Gasabo",
+    "temperature": 26.8,
+    "rainfall": 183.1,
+    "soil_moisture": 56.2
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Gatsibo",
+    "temperature": 19.6,
+    "rainfall": 124.4,
+    "soil_moisture": 42.5
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Gicumbi",
+    "temperature": 23.2,
+    "rainfall": 191.3,
+    "soil_moisture": 46.9
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Gisagara",
+    "temperature": 26.2,
+    "rainfall": 166.0,
+    "soil_moisture": 57.5
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Huye",
+    "temperature": 25.5,
+    "rainfall": 250.8,
+    "soil_moisture": 42.8
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Kamonyi",
+    "temperature": 26.0,
+    "rainfall": 92.2,
+    "soil_moisture": 27.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Karongi",
+    "temperature": 21.1,
+    "rainfall": 54.3,
+    "soil_moisture": 37.6
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Kayonza",
+    "temperature": 26.9,
+    "rainfall": 195.9,
+    "soil_moisture": 50.4
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Kicukiro",
+    "temperature": 19.7,
+    "rainfall": 117.2,
+    "soil_moisture": 46.8
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Kirehe",
+    "temperature": 20.1,
+    "rainfall": 190.3,
+    "soil_moisture": 36.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Muhanga",
+    "temperature": 25.6,
+    "rainfall": 256.9,
+    "soil_moisture": 28.2
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Musanze",
+    "temperature": 22.1,
+    "rainfall": 188.9,
+    "soil_moisture": 50.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Ngoma",
+    "temperature": 23.2,
+    "rainfall": 96.3,
+    "soil_moisture": 29.9
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Ngororero",
+    "temperature": 25.4,
+    "rainfall": 285.3,
+    "soil_moisture": 24.6
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyabihu",
+    "temperature": 25.2,
+    "rainfall": 76.9,
+    "soil_moisture": 50.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyagatare",
+    "temperature": 21.7,
+    "rainfall": 272.0,
+    "soil_moisture": 41.9
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyamagabe",
+    "temperature": 20.4,
+    "rainfall": 125.6,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyamasheke",
+    "temperature": 22.3,
+    "rainfall": 148.2,
+    "soil_moisture": 39.6
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyanza",
+    "temperature": 21.4,
+    "rainfall": 70.2,
+    "soil_moisture": 27.5
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyarugenge",
+    "temperature": 25.4,
+    "rainfall": 209.7,
+    "soil_moisture": 20.8
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Nyaruguru",
+    "temperature": 23.3,
+    "rainfall": 189.2,
+    "soil_moisture": 57.0
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Rubavu",
+    "temperature": 26.7,
+    "rainfall": 235.0,
+    "soil_moisture": 32.6
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Ruhango",
+    "temperature": 18.1,
+    "rainfall": 55.0,
+    "soil_moisture": 23.9
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Rulindo",
+    "temperature": 21.6,
+    "rainfall": 230.7,
+    "soil_moisture": 27.4
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Rusizi",
+    "temperature": 21.1,
+    "rainfall": 76.8,
+    "soil_moisture": 41.7
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Rutsiro",
+    "temperature": 20.1,
+    "rainfall": 91.8,
+    "soil_moisture": 41.6
+  },
+  {
+    "year": 2025,
+    "month": "March",
+    "district": "Rwamagana",
+    "temperature": 23.6,
+    "rainfall": 232.6,
+    "soil_moisture": 25.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Bugesera",
+    "temperature": 22.0,
+    "rainfall": 170.4,
+    "soil_moisture": 50.5
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Burera",
+    "temperature": 23.1,
+    "rainfall": 55.0,
+    "soil_moisture": 26.8
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Gakenke",
+    "temperature": 23.4,
+    "rainfall": 84.7,
+    "soil_moisture": 31.3
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Gasabo",
+    "temperature": 23.6,
+    "rainfall": 266.8,
+    "soil_moisture": 24.9
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Gatsibo",
+    "temperature": 19.3,
+    "rainfall": 246.6,
+    "soil_moisture": 52.1
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Gicumbi",
+    "temperature": 26.4,
+    "rainfall": 175.0,
+    "soil_moisture": 50.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Gisagara",
+    "temperature": 22.0,
+    "rainfall": 164.7,
+    "soil_moisture": 24.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Huye",
+    "temperature": 24.6,
+    "rainfall": 107.2,
+    "soil_moisture": 49.8
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Kamonyi",
+    "temperature": 25.8,
+    "rainfall": 289.8,
+    "soil_moisture": 27.5
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Karongi",
+    "temperature": 26.6,
+    "rainfall": 298.9,
+    "soil_moisture": 41.6
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Kayonza",
+    "temperature": 22.0,
+    "rainfall": 154.4,
+    "soil_moisture": 33.9
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Kicukiro",
+    "temperature": 18.6,
+    "rainfall": 51.9,
+    "soil_moisture": 41.9
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Kirehe",
+    "temperature": 20.0,
+    "rainfall": 133.3,
+    "soil_moisture": 29.9
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Muhanga",
+    "temperature": 22.4,
+    "rainfall": 202.5,
+    "soil_moisture": 42.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Musanze",
+    "temperature": 25.4,
+    "rainfall": 192.6,
+    "soil_moisture": 25.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Ngoma",
+    "temperature": 19.8,
+    "rainfall": 280.8,
+    "soil_moisture": 45.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Ngororero",
+    "temperature": 27.6,
+    "rainfall": 253.3,
+    "soil_moisture": 49.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyabihu",
+    "temperature": 24.9,
+    "rainfall": 122.3,
+    "soil_moisture": 25.0
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyagatare",
+    "temperature": 22.6,
+    "rainfall": 125.9,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyamagabe",
+    "temperature": 23.4,
+    "rainfall": 219.1,
+    "soil_moisture": 57.7
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyamasheke",
+    "temperature": 20.3,
+    "rainfall": 201.2,
+    "soil_moisture": 50.6
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyanza",
+    "temperature": 23.3,
+    "rainfall": 126.8,
+    "soil_moisture": 51.0
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyarugenge",
+    "temperature": 27.0,
+    "rainfall": 77.2,
+    "soil_moisture": 31.4
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Nyaruguru",
+    "temperature": 18.0,
+    "rainfall": 77.0,
+    "soil_moisture": 43.8
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Rubavu",
+    "temperature": 23.1,
+    "rainfall": 235.1,
+    "soil_moisture": 32.0
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Ruhango",
+    "temperature": 19.1,
+    "rainfall": 58.3,
+    "soil_moisture": 25.8
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Rulindo",
+    "temperature": 18.1,
+    "rainfall": 77.6,
+    "soil_moisture": 31.2
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Rusizi",
+    "temperature": 23.4,
+    "rainfall": 222.1,
+    "soil_moisture": 34.3
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Rutsiro",
+    "temperature": 25.3,
+    "rainfall": 100.4,
+    "soil_moisture": 23.7
+  },
+  {
+    "year": 2025,
+    "month": "April",
+    "district": "Rwamagana",
+    "temperature": 20.7,
+    "rainfall": 110.1,
+    "soil_moisture": 38.1
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Bugesera",
+    "temperature": 20.5,
+    "rainfall": 223.0,
+    "soil_moisture": 31.5
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Burera",
+    "temperature": 18.6,
+    "rainfall": 295.1,
+    "soil_moisture": 35.2
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Gakenke",
+    "temperature": 18.6,
+    "rainfall": 75.8,
+    "soil_moisture": 51.3
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Gasabo",
+    "temperature": 22.2,
+    "rainfall": 107.9,
+    "soil_moisture": 51.0
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Gatsibo",
+    "temperature": 26.4,
+    "rainfall": 125.3,
+    "soil_moisture": 51.2
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Gicumbi",
+    "temperature": 19.1,
+    "rainfall": 222.0,
+    "soil_moisture": 20.0
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Gisagara",
+    "temperature": 24.6,
+    "rainfall": 192.8,
+    "soil_moisture": 35.1
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Huye",
+    "temperature": 22.1,
+    "rainfall": 137.5,
+    "soil_moisture": 49.1
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Kamonyi",
+    "temperature": 23.7,
+    "rainfall": 163.7,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Karongi",
+    "temperature": 26.8,
+    "rainfall": 165.5,
+    "soil_moisture": 27.9
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Kayonza",
+    "temperature": 20.8,
+    "rainfall": 171.8,
+    "soil_moisture": 42.6
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Kicukiro",
+    "temperature": 27.0,
+    "rainfall": 206.4,
+    "soil_moisture": 50.4
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Kirehe",
+    "temperature": 27.2,
+    "rainfall": 267.0,
+    "soil_moisture": 35.4
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Muhanga",
+    "temperature": 24.6,
+    "rainfall": 240.9,
+    "soil_moisture": 49.7
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Musanze",
+    "temperature": 26.3,
+    "rainfall": 267.0,
+    "soil_moisture": 20.4
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Ngoma",
+    "temperature": 24.1,
+    "rainfall": 159.4,
+    "soil_moisture": 58.9
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Ngororero",
+    "temperature": 20.9,
+    "rainfall": 294.8,
+    "soil_moisture": 24.5
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyabihu",
+    "temperature": 26.0,
+    "rainfall": 194.2,
+    "soil_moisture": 54.4
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyagatare",
+    "temperature": 18.7,
+    "rainfall": 87.0,
+    "soil_moisture": 29.0
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyamagabe",
+    "temperature": 22.1,
+    "rainfall": 173.9,
+    "soil_moisture": 23.3
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyamasheke",
+    "temperature": 18.4,
+    "rainfall": 203.7,
+    "soil_moisture": 21.6
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyanza",
+    "temperature": 24.0,
+    "rainfall": 79.2,
+    "soil_moisture": 45.9
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyarugenge",
+    "temperature": 25.5,
+    "rainfall": 68.3,
+    "soil_moisture": 45.7
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Nyaruguru",
+    "temperature": 27.1,
+    "rainfall": 165.6,
+    "soil_moisture": 38.1
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Rubavu",
+    "temperature": 18.3,
+    "rainfall": 159.9,
+    "soil_moisture": 27.7
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Ruhango",
+    "temperature": 22.4,
+    "rainfall": 161.8,
+    "soil_moisture": 52.2
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Rulindo",
+    "temperature": 21.4,
+    "rainfall": 225.0,
+    "soil_moisture": 43.1
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Rusizi",
+    "temperature": 20.8,
+    "rainfall": 102.6,
+    "soil_moisture": 46.6
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Rutsiro",
+    "temperature": 23.2,
+    "rainfall": 246.7,
+    "soil_moisture": 36.6
+  },
+  {
+    "year": 2025,
+    "month": "May",
+    "district": "Rwamagana",
+    "temperature": 19.4,
+    "rainfall": 105.2,
+    "soil_moisture": 32.6
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Bugesera",
+    "temperature": 23.4,
+    "rainfall": 284.5,
+    "soil_moisture": 32.7
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Burera",
+    "temperature": 20.7,
+    "rainfall": 73.6,
+    "soil_moisture": 59.8
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Gakenke",
+    "temperature": 25.1,
+    "rainfall": 230.7,
+    "soil_moisture": 29.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Gasabo",
+    "temperature": 21.4,
+    "rainfall": 292.6,
+    "soil_moisture": 22.9
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Gatsibo",
+    "temperature": 22.7,
+    "rainfall": 108.7,
+    "soil_moisture": 26.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Gicumbi",
+    "temperature": 25.1,
+    "rainfall": 192.0,
+    "soil_moisture": 49.2
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Gisagara",
+    "temperature": 21.0,
+    "rainfall": 100.9,
+    "soil_moisture": 26.4
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Huye",
+    "temperature": 22.3,
+    "rainfall": 278.7,
+    "soil_moisture": 32.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Kamonyi",
+    "temperature": 24.4,
+    "rainfall": 52.8,
+    "soil_moisture": 30.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Karongi",
+    "temperature": 24.8,
+    "rainfall": 162.5,
+    "soil_moisture": 31.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Kayonza",
+    "temperature": 26.0,
+    "rainfall": 199.5,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Kicukiro",
+    "temperature": 22.4,
+    "rainfall": 177.0,
+    "soil_moisture": 44.1
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Kirehe",
+    "temperature": 21.5,
+    "rainfall": 217.3,
+    "soil_moisture": 49.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Muhanga",
+    "temperature": 25.5,
+    "rainfall": 137.6,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Musanze",
+    "temperature": 21.7,
+    "rainfall": 149.3,
+    "soil_moisture": 46.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Ngoma",
+    "temperature": 21.6,
+    "rainfall": 98.4,
+    "soil_moisture": 27.4
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Ngororero",
+    "temperature": 20.8,
+    "rainfall": 210.9,
+    "soil_moisture": 58.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyabihu",
+    "temperature": 27.0,
+    "rainfall": 56.9,
+    "soil_moisture": 27.9
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyagatare",
+    "temperature": 22.2,
+    "rainfall": 194.6,
+    "soil_moisture": 40.5
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyamagabe",
+    "temperature": 20.7,
+    "rainfall": 202.2,
+    "soil_moisture": 36.0
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyamasheke",
+    "temperature": 20.7,
+    "rainfall": 110.5,
+    "soil_moisture": 59.6
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyanza",
+    "temperature": 18.4,
+    "rainfall": 276.4,
+    "soil_moisture": 46.4
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyarugenge",
+    "temperature": 23.1,
+    "rainfall": 93.3,
+    "soil_moisture": 51.0
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Nyaruguru",
+    "temperature": 23.6,
+    "rainfall": 171.1,
+    "soil_moisture": 39.6
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Rubavu",
+    "temperature": 22.1,
+    "rainfall": 286.7,
+    "soil_moisture": 51.1
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Ruhango",
+    "temperature": 19.6,
+    "rainfall": 127.6,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Rulindo",
+    "temperature": 24.9,
+    "rainfall": 58.8,
+    "soil_moisture": 53.3
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Rusizi",
+    "temperature": 24.0,
+    "rainfall": 181.6,
+    "soil_moisture": 25.1
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Rutsiro",
+    "temperature": 19.2,
+    "rainfall": 147.1,
+    "soil_moisture": 38.7
+  },
+  {
+    "year": 2025,
+    "month": "June",
+    "district": "Rwamagana",
+    "temperature": 19.9,
+    "rainfall": 108.8,
+    "soil_moisture": 31.0
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Bugesera",
+    "temperature": 23.5,
+    "rainfall": 207.4,
+    "soil_moisture": 23.3
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Burera",
+    "temperature": 27.4,
+    "rainfall": 166.8,
+    "soil_moisture": 53.3
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Gakenke",
+    "temperature": 19.8,
+    "rainfall": 65.7,
+    "soil_moisture": 54.5
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Gasabo",
+    "temperature": 27.2,
+    "rainfall": 191.5,
+    "soil_moisture": 51.1
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Gatsibo",
+    "temperature": 22.3,
+    "rainfall": 263.7,
+    "soil_moisture": 52.3
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Gicumbi",
+    "temperature": 25.6,
+    "rainfall": 98.7,
+    "soil_moisture": 38.4
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Gisagara",
+    "temperature": 27.7,
+    "rainfall": 225.1,
+    "soil_moisture": 41.3
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Huye",
+    "temperature": 24.7,
+    "rainfall": 258.9,
+    "soil_moisture": 55.6
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Kamonyi",
+    "temperature": 18.1,
+    "rainfall": 117.3,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Karongi",
+    "temperature": 27.8,
+    "rainfall": 297.9,
+    "soil_moisture": 59.9
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Kayonza",
+    "temperature": 26.2,
+    "rainfall": 259.6,
+    "soil_moisture": 59.2
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Kicukiro",
+    "temperature": 28.0,
+    "rainfall": 162.2,
+    "soil_moisture": 40.0
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Kirehe",
+    "temperature": 19.0,
+    "rainfall": 284.6,
+    "soil_moisture": 44.0
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Muhanga",
+    "temperature": 23.9,
+    "rainfall": 115.3,
+    "soil_moisture": 50.1
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Musanze",
+    "temperature": 22.4,
+    "rainfall": 259.4,
+    "soil_moisture": 27.9
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Ngoma",
+    "temperature": 19.2,
+    "rainfall": 87.4,
+    "soil_moisture": 40.2
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Ngororero",
+    "temperature": 22.2,
+    "rainfall": 244.1,
+    "soil_moisture": 31.6
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyabihu",
+    "temperature": 24.4,
+    "rainfall": 148.0,
+    "soil_moisture": 22.4
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyagatare",
+    "temperature": 22.6,
+    "rainfall": 252.0,
+    "soil_moisture": 26.3
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyamagabe",
+    "temperature": 18.4,
+    "rainfall": 297.4,
+    "soil_moisture": 41.9
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyamasheke",
+    "temperature": 18.5,
+    "rainfall": 113.1,
+    "soil_moisture": 57.5
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyanza",
+    "temperature": 22.9,
+    "rainfall": 172.2,
+    "soil_moisture": 44.8
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyarugenge",
+    "temperature": 24.1,
+    "rainfall": 205.8,
+    "soil_moisture": 37.7
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Nyaruguru",
+    "temperature": 18.4,
+    "rainfall": 124.6,
+    "soil_moisture": 27.8
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Rubavu",
+    "temperature": 19.8,
+    "rainfall": 131.5,
+    "soil_moisture": 22.2
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Ruhango",
+    "temperature": 23.6,
+    "rainfall": 126.9,
+    "soil_moisture": 33.0
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Rulindo",
+    "temperature": 24.7,
+    "rainfall": 61.1,
+    "soil_moisture": 22.4
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Rusizi",
+    "temperature": 26.1,
+    "rainfall": 262.4,
+    "soil_moisture": 59.2
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Rutsiro",
+    "temperature": 18.5,
+    "rainfall": 141.2,
+    "soil_moisture": 33.5
+  },
+  {
+    "year": 2025,
+    "month": "July",
+    "district": "Rwamagana",
+    "temperature": 24.1,
+    "rainfall": 256.5,
+    "soil_moisture": 51.9
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Bugesera",
+    "temperature": 20.2,
+    "rainfall": 171.6,
+    "soil_moisture": 25.4
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Burera",
+    "temperature": 25.1,
+    "rainfall": 197.6,
+    "soil_moisture": 50.0
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Gakenke",
+    "temperature": 27.5,
+    "rainfall": 139.0,
+    "soil_moisture": 32.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Gasabo",
+    "temperature": 27.0,
+    "rainfall": 242.2,
+    "soil_moisture": 37.2
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Gatsibo",
+    "temperature": 18.9,
+    "rainfall": 158.6,
+    "soil_moisture": 48.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Gicumbi",
+    "temperature": 26.2,
+    "rainfall": 69.8,
+    "soil_moisture": 59.1
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Gisagara",
+    "temperature": 25.2,
+    "rainfall": 125.3,
+    "soil_moisture": 37.1
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Huye",
+    "temperature": 19.5,
+    "rainfall": 279.7,
+    "soil_moisture": 32.9
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Kamonyi",
+    "temperature": 26.6,
+    "rainfall": 102.0,
+    "soil_moisture": 30.5
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Karongi",
+    "temperature": 22.5,
+    "rainfall": 104.9,
+    "soil_moisture": 34.2
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Kayonza",
+    "temperature": 21.8,
+    "rainfall": 296.6,
+    "soil_moisture": 23.7
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Kicukiro",
+    "temperature": 24.4,
+    "rainfall": 142.1,
+    "soil_moisture": 53.2
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Kirehe",
+    "temperature": 23.6,
+    "rainfall": 86.3,
+    "soil_moisture": 38.2
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Muhanga",
+    "temperature": 26.6,
+    "rainfall": 172.6,
+    "soil_moisture": 43.5
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Musanze",
+    "temperature": 21.8,
+    "rainfall": 57.4,
+    "soil_moisture": 27.7
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Ngoma",
+    "temperature": 27.5,
+    "rainfall": 177.6,
+    "soil_moisture": 25.1
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Ngororero",
+    "temperature": 20.0,
+    "rainfall": 198.0,
+    "soil_moisture": 49.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyabihu",
+    "temperature": 20.2,
+    "rainfall": 160.8,
+    "soil_moisture": 23.4
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyagatare",
+    "temperature": 27.1,
+    "rainfall": 109.4,
+    "soil_moisture": 44.7
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyamagabe",
+    "temperature": 18.5,
+    "rainfall": 152.2,
+    "soil_moisture": 53.0
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyamasheke",
+    "temperature": 27.8,
+    "rainfall": 79.3,
+    "soil_moisture": 30.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyanza",
+    "temperature": 22.2,
+    "rainfall": 99.8,
+    "soil_moisture": 42.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyarugenge",
+    "temperature": 18.7,
+    "rainfall": 252.1,
+    "soil_moisture": 57.5
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Nyaruguru",
+    "temperature": 24.4,
+    "rainfall": 192.7,
+    "soil_moisture": 25.5
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Rubavu",
+    "temperature": 27.3,
+    "rainfall": 216.8,
+    "soil_moisture": 35.8
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Ruhango",
+    "temperature": 18.6,
+    "rainfall": 186.2,
+    "soil_moisture": 21.3
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Rulindo",
+    "temperature": 19.4,
+    "rainfall": 207.4,
+    "soil_moisture": 48.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Rusizi",
+    "temperature": 19.8,
+    "rainfall": 103.7,
+    "soil_moisture": 45.6
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Rutsiro",
+    "temperature": 22.9,
+    "rainfall": 295.1,
+    "soil_moisture": 53.5
+  },
+  {
+    "year": 2025,
+    "month": "August",
+    "district": "Rwamagana",
+    "temperature": 26.9,
+    "rainfall": 255.2,
+    "soil_moisture": 35.1
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Bugesera",
+    "temperature": 28.0,
+    "rainfall": 172.9,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Burera",
+    "temperature": 18.6,
+    "rainfall": 99.3,
+    "soil_moisture": 37.3
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Gakenke",
+    "temperature": 22.3,
+    "rainfall": 92.9,
+    "soil_moisture": 35.3
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Gasabo",
+    "temperature": 18.8,
+    "rainfall": 91.6,
+    "soil_moisture": 39.1
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Gatsibo",
+    "temperature": 26.8,
+    "rainfall": 257.1,
+    "soil_moisture": 53.5
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Gicumbi",
+    "temperature": 24.1,
+    "rainfall": 283.2,
+    "soil_moisture": 47.7
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Gisagara",
+    "temperature": 24.3,
+    "rainfall": 144.5,
+    "soil_moisture": 59.2
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Huye",
+    "temperature": 20.9,
+    "rainfall": 60.8,
+    "soil_moisture": 50.1
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Kamonyi",
+    "temperature": 21.0,
+    "rainfall": 150.4,
+    "soil_moisture": 32.0
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Karongi",
+    "temperature": 18.2,
+    "rainfall": 245.5,
+    "soil_moisture": 31.6
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Kayonza",
+    "temperature": 22.2,
+    "rainfall": 100.0,
+    "soil_moisture": 23.0
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Kicukiro",
+    "temperature": 20.2,
+    "rainfall": 276.6,
+    "soil_moisture": 25.1
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Kirehe",
+    "temperature": 21.8,
+    "rainfall": 275.4,
+    "soil_moisture": 25.7
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Muhanga",
+    "temperature": 20.0,
+    "rainfall": 74.3,
+    "soil_moisture": 29.5
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Musanze",
+    "temperature": 19.7,
+    "rainfall": 177.0,
+    "soil_moisture": 52.1
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Ngoma",
+    "temperature": 20.8,
+    "rainfall": 250.3,
+    "soil_moisture": 53.2
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Ngororero",
+    "temperature": 26.6,
+    "rainfall": 141.1,
+    "soil_moisture": 40.8
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyabihu",
+    "temperature": 21.0,
+    "rainfall": 255.3,
+    "soil_moisture": 35.3
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyagatare",
+    "temperature": 27.6,
+    "rainfall": 192.2,
+    "soil_moisture": 44.8
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyamagabe",
+    "temperature": 26.7,
+    "rainfall": 62.3,
+    "soil_moisture": 21.9
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyamasheke",
+    "temperature": 18.4,
+    "rainfall": 116.9,
+    "soil_moisture": 51.5
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyanza",
+    "temperature": 26.0,
+    "rainfall": 151.5,
+    "soil_moisture": 20.6
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyarugenge",
+    "temperature": 24.4,
+    "rainfall": 223.6,
+    "soil_moisture": 45.8
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Nyaruguru",
+    "temperature": 23.5,
+    "rainfall": 241.4,
+    "soil_moisture": 36.7
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Rubavu",
+    "temperature": 26.2,
+    "rainfall": 138.4,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Ruhango",
+    "temperature": 18.2,
+    "rainfall": 154.2,
+    "soil_moisture": 50.3
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Rulindo",
+    "temperature": 19.1,
+    "rainfall": 140.6,
+    "soil_moisture": 45.7
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Rusizi",
+    "temperature": 21.7,
+    "rainfall": 96.6,
+    "soil_moisture": 51.7
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Rutsiro",
+    "temperature": 24.1,
+    "rainfall": 229.6,
+    "soil_moisture": 43.9
+  },
+  {
+    "year": 2025,
+    "month": "September",
+    "district": "Rwamagana",
+    "temperature": 19.0,
+    "rainfall": 264.1,
+    "soil_moisture": 30.2
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Bugesera",
+    "temperature": 25.3,
+    "rainfall": 284.6,
+    "soil_moisture": 45.0
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Burera",
+    "temperature": 19.5,
+    "rainfall": 89.4,
+    "soil_moisture": 50.7
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Gakenke",
+    "temperature": 23.3,
+    "rainfall": 150.9,
+    "soil_moisture": 22.1
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Gasabo",
+    "temperature": 21.5,
+    "rainfall": 128.2,
+    "soil_moisture": 38.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Gatsibo",
+    "temperature": 26.1,
+    "rainfall": 143.4,
+    "soil_moisture": 33.8
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Gicumbi",
+    "temperature": 18.4,
+    "rainfall": 80.5,
+    "soil_moisture": 22.1
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Gisagara",
+    "temperature": 21.6,
+    "rainfall": 267.9,
+    "soil_moisture": 54.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Huye",
+    "temperature": 25.3,
+    "rainfall": 287.2,
+    "soil_moisture": 57.2
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Kamonyi",
+    "temperature": 27.6,
+    "rainfall": 257.9,
+    "soil_moisture": 33.7
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Karongi",
+    "temperature": 20.7,
+    "rainfall": 64.9,
+    "soil_moisture": 49.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Kayonza",
+    "temperature": 20.7,
+    "rainfall": 115.2,
+    "soil_moisture": 44.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Kicukiro",
+    "temperature": 23.0,
+    "rainfall": 221.4,
+    "soil_moisture": 28.6
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Kirehe",
+    "temperature": 19.5,
+    "rainfall": 238.7,
+    "soil_moisture": 37.4
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Muhanga",
+    "temperature": 20.0,
+    "rainfall": 109.7,
+    "soil_moisture": 53.2
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Musanze",
+    "temperature": 25.8,
+    "rainfall": 109.7,
+    "soil_moisture": 41.5
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Ngoma",
+    "temperature": 27.9,
+    "rainfall": 244.7,
+    "soil_moisture": 48.7
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Ngororero",
+    "temperature": 24.6,
+    "rainfall": 157.0,
+    "soil_moisture": 45.2
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyabihu",
+    "temperature": 25.0,
+    "rainfall": 176.9,
+    "soil_moisture": 39.0
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyagatare",
+    "temperature": 27.6,
+    "rainfall": 271.2,
+    "soil_moisture": 39.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyamagabe",
+    "temperature": 19.1,
+    "rainfall": 137.8,
+    "soil_moisture": 39.9
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyamasheke",
+    "temperature": 20.1,
+    "rainfall": 74.1,
+    "soil_moisture": 47.1
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyanza",
+    "temperature": 19.7,
+    "rainfall": 56.7,
+    "soil_moisture": 36.2
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyarugenge",
+    "temperature": 20.6,
+    "rainfall": 239.7,
+    "soil_moisture": 45.1
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Nyaruguru",
+    "temperature": 25.6,
+    "rainfall": 197.3,
+    "soil_moisture": 32.3
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Rubavu",
+    "temperature": 27.6,
+    "rainfall": 117.0,
+    "soil_moisture": 32.1
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Ruhango",
+    "temperature": 19.7,
+    "rainfall": 215.8,
+    "soil_moisture": 55.8
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Rulindo",
+    "temperature": 19.1,
+    "rainfall": 99.2,
+    "soil_moisture": 35.4
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Rusizi",
+    "temperature": 27.7,
+    "rainfall": 177.5,
+    "soil_moisture": 39.0
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Rutsiro",
+    "temperature": 26.4,
+    "rainfall": 146.3,
+    "soil_moisture": 38.7
+  },
+  {
+    "year": 2025,
+    "month": "October",
+    "district": "Rwamagana",
+    "temperature": 22.4,
+    "rainfall": 274.2,
+    "soil_moisture": 48.9
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Bugesera",
+    "temperature": 25.8,
+    "rainfall": 187.0,
+    "soil_moisture": 59.5
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Burera",
+    "temperature": 27.6,
+    "rainfall": 105.0,
+    "soil_moisture": 34.7
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Gakenke",
+    "temperature": 22.5,
+    "rainfall": 137.4,
+    "soil_moisture": 23.4
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Gasabo",
+    "temperature": 24.5,
+    "rainfall": 135.0,
+    "soil_moisture": 56.6
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Gatsibo",
+    "temperature": 23.0,
+    "rainfall": 166.9,
+    "soil_moisture": 38.6
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Gicumbi",
+    "temperature": 25.6,
+    "rainfall": 159.2,
+    "soil_moisture": 29.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Gisagara",
+    "temperature": 19.8,
+    "rainfall": 82.5,
+    "soil_moisture": 25.1
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Huye",
+    "temperature": 22.2,
+    "rainfall": 101.8,
+    "soil_moisture": 50.6
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Kamonyi",
+    "temperature": 19.7,
+    "rainfall": 150.8,
+    "soil_moisture": 58.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Karongi",
+    "temperature": 23.1,
+    "rainfall": 261.7,
+    "soil_moisture": 34.9
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Kayonza",
+    "temperature": 26.9,
+    "rainfall": 154.4,
+    "soil_moisture": 43.6
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Kicukiro",
+    "temperature": 26.3,
+    "rainfall": 253.9,
+    "soil_moisture": 51.1
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Kirehe",
+    "temperature": 27.7,
+    "rainfall": 174.8,
+    "soil_moisture": 55.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Muhanga",
+    "temperature": 27.2,
+    "rainfall": 71.3,
+    "soil_moisture": 56.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Musanze",
+    "temperature": 24.8,
+    "rainfall": 252.2,
+    "soil_moisture": 31.2
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Ngoma",
+    "temperature": 21.3,
+    "rainfall": 150.8,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Ngororero",
+    "temperature": 22.2,
+    "rainfall": 156.6,
+    "soil_moisture": 28.1
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyabihu",
+    "temperature": 23.0,
+    "rainfall": 121.4,
+    "soil_moisture": 40.5
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyagatare",
+    "temperature": 20.3,
+    "rainfall": 115.4,
+    "soil_moisture": 27.6
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyamagabe",
+    "temperature": 19.5,
+    "rainfall": 292.5,
+    "soil_moisture": 22.2
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyamasheke",
+    "temperature": 25.7,
+    "rainfall": 138.2,
+    "soil_moisture": 57.7
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyanza",
+    "temperature": 21.6,
+    "rainfall": 151.2,
+    "soil_moisture": 24.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyarugenge",
+    "temperature": 20.4,
+    "rainfall": 214.4,
+    "soil_moisture": 39.3
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Nyaruguru",
+    "temperature": 20.6,
+    "rainfall": 60.4,
+    "soil_moisture": 45.1
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Rubavu",
+    "temperature": 27.6,
+    "rainfall": 52.5,
+    "soil_moisture": 45.2
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Ruhango",
+    "temperature": 19.3,
+    "rainfall": 154.6,
+    "soil_moisture": 35.8
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Rulindo",
+    "temperature": 18.7,
+    "rainfall": 62.9,
+    "soil_moisture": 21.9
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Rusizi",
+    "temperature": 25.0,
+    "rainfall": 103.5,
+    "soil_moisture": 42.4
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Rutsiro",
+    "temperature": 18.3,
+    "rainfall": 51.9,
+    "soil_moisture": 29.9
+  },
+  {
+    "year": 2025,
+    "month": "November",
+    "district": "Rwamagana",
+    "temperature": 21.0,
+    "rainfall": 200.6,
+    "soil_moisture": 21.5
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Bugesera",
+    "temperature": 25.2,
+    "rainfall": 216.0,
+    "soil_moisture": 43.5
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Burera",
+    "temperature": 22.9,
+    "rainfall": 225.8,
+    "soil_moisture": 30.1
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Gakenke",
+    "temperature": 26.8,
+    "rainfall": 265.9,
+    "soil_moisture": 20.6
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Gasabo",
+    "temperature": 25.4,
+    "rainfall": 114.5,
+    "soil_moisture": 37.9
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Gatsibo",
+    "temperature": 25.7,
+    "rainfall": 182.8,
+    "soil_moisture": 50.6
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Gicumbi",
+    "temperature": 18.4,
+    "rainfall": 173.3,
+    "soil_moisture": 55.7
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Gisagara",
+    "temperature": 26.4,
+    "rainfall": 290.4,
+    "soil_moisture": 21.2
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Huye",
+    "temperature": 25.8,
+    "rainfall": 240.4,
+    "soil_moisture": 21.4
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Kamonyi",
+    "temperature": 22.6,
+    "rainfall": 290.0,
+    "soil_moisture": 58.0
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Karongi",
+    "temperature": 22.4,
+    "rainfall": 246.4,
+    "soil_moisture": 41.6
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Kayonza",
+    "temperature": 20.1,
+    "rainfall": 229.1,
+    "soil_moisture": 33.1
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Kicukiro",
+    "temperature": 26.7,
+    "rainfall": 272.1,
+    "soil_moisture": 41.9
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Kirehe",
+    "temperature": 26.2,
+    "rainfall": 240.9,
+    "soil_moisture": 54.6
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Muhanga",
+    "temperature": 21.0,
+    "rainfall": 139.5,
+    "soil_moisture": 47.1
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Musanze",
+    "temperature": 27.1,
+    "rainfall": 137.4,
+    "soil_moisture": 48.8
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Ngoma",
+    "temperature": 25.7,
+    "rainfall": 140.8,
+    "soil_moisture": 29.2
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Ngororero",
+    "temperature": 19.9,
+    "rainfall": 128.4,
+    "soil_moisture": 37.8
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyabihu",
+    "temperature": 25.3,
+    "rainfall": 249.4,
+    "soil_moisture": 51.0
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyagatare",
+    "temperature": 27.9,
+    "rainfall": 139.6,
+    "soil_moisture": 35.8
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyamagabe",
+    "temperature": 19.7,
+    "rainfall": 249.5,
+    "soil_moisture": 39.2
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyamasheke",
+    "temperature": 24.1,
+    "rainfall": 223.6,
+    "soil_moisture": 30.5
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyanza",
+    "temperature": 18.0,
+    "rainfall": 54.7,
+    "soil_moisture": 57.6
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyarugenge",
+    "temperature": 18.3,
+    "rainfall": 266.2,
+    "soil_moisture": 44.0
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Nyaruguru",
+    "temperature": 21.7,
+    "rainfall": 112.1,
+    "soil_moisture": 40.2
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Rubavu",
+    "temperature": 24.7,
+    "rainfall": 267.6,
+    "soil_moisture": 54.3
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Ruhango",
+    "temperature": 25.2,
+    "rainfall": 56.8,
+    "soil_moisture": 20.9
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Rulindo",
+    "temperature": 23.4,
+    "rainfall": 62.8,
+    "soil_moisture": 58.1
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Rusizi",
+    "temperature": 21.6,
+    "rainfall": 295.8,
+    "soil_moisture": 55.2
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Rutsiro",
+    "temperature": 24.6,
+    "rainfall": 93.8,
+    "soil_moisture": 34.0
+  },
+  {
+    "year": 2025,
+    "month": "December",
+    "district": "Rwamagana",
+    "temperature": 18.7,
+    "rainfall": 106.5,
+    "soil_moisture": 46.5
+  }
+]

@@ -23,7 +23,7 @@
       <div class="sidebar">
         <div class="logo-section">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Map_pin_icon.svg/1024px-Map_pin_icon.svg.png" alt="Logo" />
-          <h1>Climate Resilience and Risk Management System</h1>
+          <h1>HazardWatch Rwanda</h1>
         </div>
         <ul class="nav-links">
           <li class="nav-item {%if request.resolver_match.url_name == 'dashboard'%} active {%endif%}" data-page="dashboard-page">
@@ -62,6 +62,12 @@
               <span>Info | About</span>
             </a>
           </li>
+          <li class="nav-item {%if request.resolver_match.url_name == 'overview'%} active {%endif%}" data-page="overview-page">
+            <a href="{%url 'dashboard_new'%}">
+              <i class="fas fa-info-circle"></i>
+              <span>New dashboard</span>
+            </a>
+          </li>
         </ul>
       </div>
       <div class="main-content">{%block content%} {%endblock%}</div>
@@ -69,5 +75,10 @@
     <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
     <script src="{%static 'js/scripts.js' %}"></script>
     <script src="{%static 'js/map.js' %}"></script>
+    <script src="{%static 'js/dashboard.js' %}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="dash_new.js"></script>
+    <!-- Your dashboard JS -->
   </body>
 </html>

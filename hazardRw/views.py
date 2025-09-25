@@ -21,3 +21,6 @@ def notificationsView(request):
 
 def aboutView(request):
     return render(request, 'overview.html')
+
+def dashboardNewView(request):
+    return render(request, 'dashboard_new.html')

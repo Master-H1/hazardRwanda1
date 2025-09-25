@@ -1,9 +1,23 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const map = L.map('map').setView([-1.9403, 29.8739], 8);
+  const map = L.map('map', {
+    center: [-1.9403, 29.8739], // Rwanda center
+    zoom: 8,
+    maxBounds: [
+      [-2.9, 28.8], // Southwest corner (lat, lng)
+      [-1.0, 30.9]  // Northeast corner (lat, lng)
+    ],
+    maxBoundsViscosity: 1.0 // fully restricts movement outside bounds
+  });
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map);
+
+  // Ensure map fits nicely inside the bounds
+  map.fitBounds([
+    [-2.9, 28.8], 
+    [-1.0, 30.9]
+  ]);
 
   let geojsonLayer;
   let allFeatures;
@@ -13,14 +27,9 @@ document.addEventListener('DOMContentLoaded', function () {
     .then((res) => res.json())
     .then((data) => {
       allFeatures = data.features;
-
-      // Populate filters
       buildFilters(allFeatures);
-
-      // Render initial map
       applyFilters();
 
-      // Add event listeners
       document.getElementById('province-filter').addEventListener('change', applyFilters);
       document.getElementById('subtype-filter').addEventListener('change', applyFilters);
       document.getElementById('year-filter').addEventListener('change', applyFilters);
@@ -43,7 +52,9 @@ document.addEventListener('DOMContentLoaded', function () {
     const filtered = allFeatures.filter((f) => {
       const p = f.properties;
       const year = p.Date ? new Date(p.Date).getFullYear().toString() : null;
-      return (selectedProvince === 'all' || p.Province === selectedProvince) && (selectedType === 'all' || p.Disaster_1 === selectedType) && (selectedYear === 'all' || year === selectedYear);
+      return (selectedProvince === 'all' || p.Province === selectedProvince) &&
+             (selectedType === 'all' || p.Disaster_1 === selectedType) &&
+             (selectedYear === 'all' || year === selectedYear);
     });
 
     updateKPIs(filtered);
@@ -80,7 +91,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Color scale: low → high
   function getColor(x) {
-    return x > 5000 ? '#800026' : x > 2000 ? '#BD0026' : x > 1000 ? '#E31A1C' : x > 500 ? '#FC4E2A' : x > 100 ? '#FD8D3C' : x > 50 ? '#FEB24C' : x > 10 ? '#FED976' : '#FFEDA0';
+    return x > 5000 ? '#800026' :
+           x > 2000 ? '#BD0026' :
+           x > 1000 ? '#E31A1C' :
+           x > 500  ? '#FC4E2A' :
+           x > 100  ? '#FD8D3C' :
+           x > 50   ? '#FEB24C' :
+           x > 10   ? '#FED976' :
+                      '#FFEDA0';
   }
 
   // Build dropdown filters
@@ -124,3 +142,4 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('kpi-total-value').textContent = features.length;
   }
 });
+
